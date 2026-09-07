@@ -1,18 +1,5 @@
 
-import { collections } from "../../data/sneakers.js";
-
-// Flatten the data 
-const sneakers = collections.flatMap(collection => 
-    collection.collection.flatMap(productCollection => 
-        productCollection.sneaker.map(sneaker => ({
-            ...sneaker,
-
-            collection: collection.id,
-            description: productCollection.description,
-            productCollection: productCollection.name
-        }))
-    )
-);
+import { sneakers } from "./canvasData.js";
 
 // render sneaker data to DOM
 export function Canvas() {
