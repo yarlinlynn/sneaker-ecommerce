@@ -4,7 +4,9 @@ import './css/style.css';
 
 // import components:
 import { Header } from './components/header.js';
-import { Canvas, initCanvas } from './components/Canvas/canvas.js';
+import { Canvas } from './components/Canvas/canvas.js';
+
+import { initCanvas } from './components/Canvas/initCanvas.js';
 
 document.addEventListener("DOMContentLoaded", async () => {
 
