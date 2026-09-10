@@ -1039,12 +1039,12 @@ export const collections = [
                         name: 'Cloudnova Rift',
                         color: 'Alloy | Glacier',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1WJ7spF5CoO1qR0t1IR0XW/9bd6fce5ecc34897d553dbac2b3b8a19/89e3db8007c7e5dd4b7f5ce0c287774388cf9320.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Nb5DSbWuAWleAfY9xk379/9282bb4ff76d7114a620d673798ee992/debf6697f7b4b908bd002c53b267d47d3af2d71d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2lnKcBYPbOUPezDTSyLkIb/fd35a66a29d6be1c1b4d84fa4ea924ee/5e4e279c8af40386c3f9d1c67f25ba2253114fcc.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/17RucE1sq0wFz1vCKKgGu7/d443c310d5f597e99d69d6d17da6df17/31454bb4d2fa9ab6a0c45ddb350b3d7c2aa65c5e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3SdgKvcJL26MbZoTEmje4t/747b4f043e1a57d9f536c3623464233e/abe847fcb29fdefcafdc490794f0969744ff1dd4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4oLy1u1w1RvypMxJkS4B8E/68b7016fe4fa6f80428262167aac7174/6d90627bdac344bd5c0bc9e7889ca5fc3cd623dc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1WJ7spF5CoO1qR0t1IR0XW/9bd6fce5ecc34897d553dbac2b3b8a19/89e3db8007c7e5dd4b7f5ce0c287774388cf9320.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3Nb5DSbWuAWleAfY9xk379/9282bb4ff76d7114a620d673798ee992/debf6697f7b4b908bd002c53b267d47d3af2d71d.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2lnKcBYPbOUPezDTSyLkIb/fd35a66a29d6be1c1b4d84fa4ea924ee/5e4e279c8af40386c3f9d1c67f25ba2253114fcc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/17RucE1sq0wFz1vCKKgGu7/d443c310d5f597e99d69d6d17da6df17/31454bb4d2fa9ab6a0c45ddb350b3d7c2aa65c5e.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3SdgKvcJL26MbZoTEmje4t/747b4f043e1a57d9f536c3623464233e/abe847fcb29fdefcafdc490794f0969744ff1dd4.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4oLy1u1w1RvypMxJkS4B8E/68b7016fe4fa6f80428262167aac7174/6d90627bdac344bd5c0bc9e7889ca5fc3cd623dc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 220
                     },
@@ -1060,12 +1060,12 @@ export const collections = [
                         name: 'Cloudnova 2',
                         color: 'Ice | Sand',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/34sSLSxfhRGOxU59xcnlvu/df31b9e6e8de0129e3bd98f8423bbc59/6b6bd3e423862e8ecd0aace13e38e904e971c58f.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/xbtkJpeYOTciMgKjUomtC/841a062fb3ef836af69db9998d71cc54/c465698e2080b57910484e3fae4596dcaedf9a4d.png?w=4000&h=4000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/771IUnSwbCjrb4OgVEBLzm/8026171b4ceff0ffaae86db1af4b1d19/26d3a8bfdb2aa32ed4d2a445037e26d2e5bf6aba.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/YDKy6iNK5snRygsUd0Vuv/2a6edaad2113e55ac3630ba369edfe48/4a5110a360a2ab9a7e85b4b3453123fa5795ca0c.png?w=4000&h=4000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6zFwbf67bVrVEl20oUIYb0/9fd77e45be5999136e5298b24aa0a508/e6940af617e6ff34ecc7b9d71dd7b7672f0d3f37.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6tB5Nm3inSBTH9kKYQ2U1h/8b77a8bcf968c871c2aa17219ece3391/ca7c8b1788cf1524e6d5e3f74f1f497284b68b3d.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/34sSLSxfhRGOxU59xcnlvu/df31b9e6e8de0129e3bd98f8423bbc59/6b6bd3e423862e8ecd0aace13e38e904e971c58f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/xbtkJpeYOTciMgKjUomtC/841a062fb3ef836af69db9998d71cc54/c465698e2080b57910484e3fae4596dcaedf9a4d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/771IUnSwbCjrb4OgVEBLzm/8026171b4ceff0ffaae86db1af4b1d19/26d3a8bfdb2aa32ed4d2a445037e26d2e5bf6aba.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/YDKy6iNK5snRygsUd0Vuv/2a6edaad2113e55ac3630ba369edfe48/4a5110a360a2ab9a7e85b4b3453123fa5795ca0c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6zFwbf67bVrVEl20oUIYb0/9fd77e45be5999136e5298b24aa0a508/e6940af617e6ff34ecc7b9d71dd7b7672f0d3f37.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6tB5Nm3inSBTH9kKYQ2U1h/8b77a8bcf968c871c2aa17219ece3391/ca7c8b1788cf1524e6d5e3f74f1f497284b68b3d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 220
                     },
@@ -1088,10 +1088,10 @@ export const collections = [
                         name: 'Cloudnova 2',
                         color: 'All Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1mlc2vqCtNqnHy3A1PvIeU/905450a15ab8d5241ac1cd39d57a9d56/9e90a32149064a6ffec168e42436df21c9a3ae94.png?w=4000&h=4000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/63XJttdwQuMZNhvGNMXMT1/458c96fa314d877c1437cf6b400a87ce/b0eb62710ae6424afc96f201d9f0e8506b52bead.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1mlc2vqCtNqnHy3A1PvIeU/905450a15ab8d5241ac1cd39d57a9d56/9e90a32149064a6ffec168e42436df21c9a3ae94.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/63XJttdwQuMZNhvGNMXMT1/458c96fa314d877c1437cf6b400a87ce/b0eb62710ae6424afc96f201d9f0e8506b52bead.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/39YoUvqBTBGQGZ4bEYfncM/e4523d1cc0a8eef8f9b223f2f4d20c55/7a3babbb9fb9d4d52e28a8b754981eefff50a0d3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4sciaNwQuh7hTO9Z1A8WnA/6f5dbc042a4855b145f8a3213324cf19/334f1d94b4a834a62066b92e3b83804268775c58.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4sciaNwQuh7hTO9Z1A8WnA/6f5dbc042a4855b145f8a3213324cf19/334f1d94b4a834a62066b92e3b83804268775c58.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/3a8cnwwy3NDtx9RDfvhiwm/d64ffc14663718cd541de2c090a31964/6b8c8b7c478066f63f2f53ad4c09c16e7bfa2a2a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/2GLNbnSHxW75lFHSB4t6So/9bbb62a040b78be8a9d1fdc923de0961/881e27f6ac1b2abb945502ebcd1a816b10e6acc7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
@@ -1847,7 +1847,7 @@ export const collections = [
                         name: 'Cloud 6 Waterproof',
                         color: 'Ash | Sable',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6136f82UzcJtEI8YqUQPX7/22566b5f01b0e0bf105a78b1e5e8453c/ad6c0dae917deb93eeea77c647b9a706b127c9e1.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6136f82UzcJtEI8YqUQPX7/22566b5f01b0e0bf105a78b1e5e8453c/ad6c0dae917deb93eeea77c647b9a706b127c9e1.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/1b1N1qctXzUY9LeFBulanG/136e5bb60262b0390e35a5fa93d09d1c/ea0f2e6e36f1f24ba00bb07321d834528365a339.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/6jOn0xuzQWPLPVybzzgwK6/3c70668b7c6f8f392064e0434bdd51ce/f8be7009040700a66a96011d146e1a8b384d8a6e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/4J8Nfkr6XGD7WKmjCRobh/36d224b32087c75b04f23e2ef40d4002/cb356697d6da6f4d0bde80f173a42a62a526a08d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
@@ -1889,12 +1889,12 @@ export const collections = [
                         name: 'Cloud 6 Waterproof',
                         color: 'Navy | Midnight',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Z5i5CdItWT7IFXV8uy2nV/38c60e96883992048b5426c7de7fb89e/04de6c15e21e3ab649116d4cbbb988ee34ceb491.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3ZjTMe2sg7XBVOexUUUhAw/8418f10707c98e138825b213a98f4934/6d7b32ddd06e12804899784f263527dff7763f75.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2tdjqwPsfMWDDhXDGea609/cbbb6e45a6f7008813fe10f269dcf4f3/4f779754ea63e2e4fb856ff76dacf87a1379485f.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1AtSpFUyXL0thfwVyJvjSs/68061e4a4b589ff570fb863416aee285/bdc70f2a9211703df7f9a1e8a0110320cb2a7cc4.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3Z5i5CdItWT7IFXV8uy2nV/38c60e96883992048b5426c7de7fb89e/04de6c15e21e3ab649116d4cbbb988ee34ceb491.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3ZjTMe2sg7XBVOexUUUhAw/8418f10707c98e138825b213a98f4934/6d7b32ddd06e12804899784f263527dff7763f75.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2tdjqwPsfMWDDhXDGea609/cbbb6e45a6f7008813fe10f269dcf4f3/4f779754ea63e2e4fb856ff76dacf87a1379485f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1AtSpFUyXL0thfwVyJvjSs/68061e4a4b589ff570fb863416aee285/bdc70f2a9211703df7f9a1e8a0110320cb2a7cc4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/4xANFQ8xrh2v87sUrl5mkR/8520e18a7cf2dd3a2cf17c453a2e908c/8efe67b50bc03bb96f7dcda525585622c7ca5896.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6bFuvKzUDcFC47oJTOVZOi/0345ec6afe2397a14fed509e58d1f3b3/e9c9bf165e668895038e5522f2831f70adab4634.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6bFuvKzUDcFC47oJTOVZOi/0345ec6afe2397a14fed509e58d1f3b3/e9c9bf165e668895038e5522f2831f70adab4634.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 210
                     },
@@ -1903,12 +1903,12 @@ export const collections = [
                         name: 'Cloud 6 Waterproof',
                         color: 'Mauve | Zinc',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6ITfn4wS952o56sP38oOw7/7e628d77167e5fc8639374728e7cfada/03a01d0a6934c58da50933fde1dd9c5e561a00d9.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6KpMy3eBsng5t8ryG4V5dE/dce8ed0a02e5489f7d2d095b9fe3459a/ce780f0f2f12de470f9d08412c505aa70978e75c.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7DtgZkLZ2AEf4p9166xPZR/12144c8527214608876c97ccb6023b76/34adffdf6c3264ab496a87c7e3a43f9528074480.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/UnDNMA5VWRvSIoVgLuCLx/52dc6499741d986929e294310084058f/2adfe021036745d1cd61e5d62b20e369178be69f.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1jbv09HkeLBJbDbjPd6oWR/bc7526e1e1bb333e5cc06f6e01e2e7ce/352c9675e96a32b97b35969a01b90d6c95730942.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5cmCf6GNdbRp50yebiR4Yz/63c8011c013dcbd958b3ab32a814aa5c/ff0aa74458e4ff3d1723868bc7d62451cbde4180.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6ITfn4wS952o56sP38oOw7/7e628d77167e5fc8639374728e7cfada/03a01d0a6934c58da50933fde1dd9c5e561a00d9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6KpMy3eBsng5t8ryG4V5dE/dce8ed0a02e5489f7d2d095b9fe3459a/ce780f0f2f12de470f9d08412c505aa70978e75c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/7DtgZkLZ2AEf4p9166xPZR/12144c8527214608876c97ccb6023b76/34adffdf6c3264ab496a87c7e3a43f9528074480.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/UnDNMA5VWRvSIoVgLuCLx/52dc6499741d986929e294310084058f/2adfe021036745d1cd61e5d62b20e369178be69f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1jbv09HkeLBJbDbjPd6oWR/bc7526e1e1bb333e5cc06f6e01e2e7ce/352c9675e96a32b97b35969a01b90d6c95730942.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5cmCf6GNdbRp50yebiR4Yz/63c8011c013dcbd958b3ab32a814aa5c/ff0aa74458e4ff3d1723868bc7d62451cbde4180.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 210
                     },
@@ -1987,7 +1987,7 @@ export const collections = [
                         name: 'Cloud 6 Versa',
                         color: 'Ice | Spirulina',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/13SgJZppQTvg6vrc4rq8ty/707df9b63d085532616207dcda31de71/d9fca954d3dbcb9795160326db765b01f60293d5.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/13SgJZppQTvg6vrc4rq8ty/707df9b63d085532616207dcda31de71/d9fca954d3dbcb9795160326db765b01f60293d5.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/57RY6OiF8D0ogkfg8Ogxp6/180a6b4259911b3ece6b7fd8c6a79121/b86848bf86cdf3dad82d7a8ce43a73c8eed0a8a8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/4AGV4Cils56neUI9tU2f51/278135d602baff44701ab825726e5c78/948871aa311a38aa4c0cbcb4d460777029238483.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/1YSTPI7glKwtcGMmid27mQ/d6492535ae6fabb04b9b5413652d06ac/4c060191b7b0e85051776e96b5e59d1426d03f41.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
@@ -2001,12 +2001,12 @@ export const collections = [
                         name: 'Cloud 6 Versa',
                         color: 'Black | Eclipse',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2O5LjyjX8mJ0gPga2FgOAg/81410ac674f19931c95f69993d5d73bc/0220173a6d754bd414efada930d1fd9a6c62ebec.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3S2ivEVW3Pm00ggWWA0KpJ/2b754ad798426ba9c6509a5f0997f83a/be71fe46e3b3a19a16af7111145c81f9d543d59b.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7bTAlWJhQKRJ2XndwEJz7G/9c0af4bc1980834fea03fbcfc9de74e2/4e116cde9cc8bc64b6578d79db2941cd4110b112.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4CCljsw1fSu7HI2hl7JNZH/7e0860aacf189da287f30965917f6aa2/2d744eda06c4ca1f78b7bead4222e80977ea4335.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/37iBmZ9aCc7kJ2xWpjkgDp/73b334cc8f9fd620c59383c923fd2973/752c85e61b35527801b65636e59f7becf7a735b1.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4NAlny2RsRJ7yOtRJAHv2J/d18f995d7786a234a035b448e012cda2/8540fa3f8dc01dc92a48be3d68974f7da0497d28.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2O5LjyjX8mJ0gPga2FgOAg/81410ac674f19931c95f69993d5d73bc/0220173a6d754bd414efada930d1fd9a6c62ebec.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3S2ivEVW3Pm00ggWWA0KpJ/2b754ad798426ba9c6509a5f0997f83a/be71fe46e3b3a19a16af7111145c81f9d543d59b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/7bTAlWJhQKRJ2XndwEJz7G/9c0af4bc1980834fea03fbcfc9de74e2/4e116cde9cc8bc64b6578d79db2941cd4110b112.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4CCljsw1fSu7HI2hl7JNZH/7e0860aacf189da287f30965917f6aa2/2d744eda06c4ca1f78b7bead4222e80977ea4335.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/37iBmZ9aCc7kJ2xWpjkgDp/73b334cc8f9fd620c59383c923fd2973/752c85e61b35527801b65636e59f7becf7a735b1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4NAlny2RsRJ7yOtRJAHv2J/d18f995d7786a234a035b448e012cda2/8540fa3f8dc01dc92a48be3d68974f7da0497d28.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 220
                     },
@@ -2022,8 +2022,8 @@ export const collections = [
                         name: 'Cloud 6 SHF',
                         color: 'Fir | Fir',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4JgTfYuon3ZipboIDLx1qm/930f6e9918be9687a8bac152d5cf3617/b39484d932aabbd7eb15e46ad78f1436cc7421aa.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2VN2lu0knxYq39NoyXCm8p/03168f3d25c38fa83d12977af83849b4/a4423fd21f26416c6926c3f6b4ba9ad54d149f3b.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4JgTfYuon3ZipboIDLx1qm/930f6e9918be9687a8bac152d5cf3617/b39484d932aabbd7eb15e46ad78f1436cc7421aa.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2VN2lu0knxYq39NoyXCm8p/03168f3d25c38fa83d12977af83849b4/a4423fd21f26416c6926c3f6b4ba9ad54d149f3b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/6NyGe8jqHnEQX5sZ7gms9k/4a8df3b9eca3fd218d64ed2779a4a9f3/1ecd4c45c27e56d89ca5465197b80c47c60d10b0.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/4qhRntCmR6KF3bUcw9v17b/05af8588442dd9748d33cae9b4ecc85a/fde2d658204e2ea027d76212e027625556c99cb1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/5KO4NqyeSKhvBn3BTr3LBU/6e801084746c42ad08c469ec33b4d6c6/615c497ae61e465f05e24ee9c70e218eac65bb0d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
@@ -2036,12 +2036,12 @@ export const collections = [
                         name: 'Cloud 6 SHF',
                         color: 'Ox | Ox',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6bVFPjiSqso5SlemNsXnlI/2eeb83b4c96ca9fc2b9faa17430ea908/c97735e270ae7556f43f88e588f77e9277ed9002.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4GCdI2Is0r3xoTgY1wLo4a/2ae2496a93311d449484eb6bc851211c/63a5f1135eb646f12e1e9b46e5a267e2c09f2e91.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/wo8XDaPewwvSSfQvMvwCk/cef3ef7c560a0efefaf291285e046897/1625e417b23e02533fb8b8881fda38d972a0b91d.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6Ht94NLeNntvOfloaNHmLj/aae726b8301a20e437781878941c5cc8/d124daa98375625184ac8fae5c1793201e3af960.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4wtZ6imHqQrPcvkaKqH69S/8dac4c67ec30da4cd560d826af4c5e22/67f5fe8d4d88935d9964cb0fe9d24f9f82b96a93.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/386EWXBIGwMFxrIQoHpZ71/28eafbea6f58e3dfefe24da2d0ff61d7/1c024e0cea428b6a11bfcefc7191a01e092db837.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6bVFPjiSqso5SlemNsXnlI/2eeb83b4c96ca9fc2b9faa17430ea908/c97735e270ae7556f43f88e588f77e9277ed9002.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4GCdI2Is0r3xoTgY1wLo4a/2ae2496a93311d449484eb6bc851211c/63a5f1135eb646f12e1e9b46e5a267e2c09f2e91.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/wo8XDaPewwvSSfQvMvwCk/cef3ef7c560a0efefaf291285e046897/1625e417b23e02533fb8b8881fda38d972a0b91d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6Ht94NLeNntvOfloaNHmLj/aae726b8301a20e437781878941c5cc8/d124daa98375625184ac8fae5c1793201e3af960.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4wtZ6imHqQrPcvkaKqH69S/8dac4c67ec30da4cd560d826af4c5e22/67f5fe8d4d88935d9964cb0fe9d24f9f82b96a93.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/386EWXBIGwMFxrIQoHpZ71/28eafbea6f58e3dfefe24da2d0ff61d7/1c024e0cea428b6a11bfcefc7191a01e092db837.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 220
                     },
@@ -2057,12 +2057,12 @@ export const collections = [
                         name: 'Cloud 6 Wide',
                         color: 'Black | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/51d2GDZjdzqIpUSvIat5Zf/8ec744c40e621d98a732c71a139255e2/a8682de0eee73e0349a9db3b33bee94f1296b4fd.png?w=1600&h=1600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/tSYn9o6cuhpDXPcD2TDuf/1163ac236ffd3de925271152d2992e05/0ac10d61fee2722cc5db91ee359f45d4d0365cb9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/S70RZqHvgNXgTHswAvEPb/c483dbe07d536e46c5636bd27e79dacd/b042528fc316beeaa74a3217b6b568445219d25f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4lsSp8mxWLwLrnvfBrhCvR/f995d33a16b046dd6adb0af456357f84/a9e3447250e8af91a07b6e00d5142e565558fd39.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6c79sI6tOm4CbmsJzEvVZA/1c412ad29cc51a528720a6976b19b9aa/09c02401f84ad7494a54c79c5e9b101e070cb139.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/76yoL6nqzwoFqpHvA4hrQA/00fec96f28a54d30dcef4624714a8bda/ba349588e60319911f79f66d9076ecdadc0a4a7f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                           "https://images.ctfassets.net/hnk2vsx53n6l/51d2GDZjdzqIpUSvIat5Zf/8ec744c40e621d98a732c71a139255e2/a8682de0eee73e0349a9db3b33bee94f1296b4fd.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                           "https://images.ctfassets.net/hnk2vsx53n6l/tSYn9o6cuhpDXPcD2TDuf/1163ac236ffd3de925271152d2992e05/0ac10d61fee2722cc5db91ee359f45d4d0365cb9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                           "https://images.ctfassets.net/hnk2vsx53n6l/S70RZqHvgNXgTHswAvEPb/c483dbe07d536e46c5636bd27e79dacd/b042528fc316beeaa74a3217b6b568445219d25f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                           "https://images.ctfassets.net/hnk2vsx53n6l/4lsSp8mxWLwLrnvfBrhCvR/f995d33a16b046dd6adb0af456357f84/a9e3447250e8af91a07b6e00d5142e565558fd39.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                           "https://images.ctfassets.net/hnk2vsx53n6l/6c79sI6tOm4CbmsJzEvVZA/1c412ad29cc51a528720a6976b19b9aa/09c02401f84ad7494a54c79c5e9b101e070cb139.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                           "https://images.ctfassets.net/hnk2vsx53n6l/76yoL6nqzwoFqpHvA4hrQA/00fec96f28a54d30dcef4624714a8bda/ba349588e60319911f79f66d9076ecdadc0a4a7f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80" 
                         ],
                         price: 190
                     },
@@ -2072,10 +2072,10 @@ export const collections = [
                         color: 'Black | White',
                         images: [
                             "https://images.ctfassets.net/hnk2vsx53n6l/wpfiC9zASP6MR9TJRNtis/70617ff74d1797d61ddc397c0022cb25/25bea01eb9804b55c8fecccbad8b81e9566a4460.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2i9HpsQ3tyRgFsc9aArg7G/d6a8a9dc694830ad8c2acc9a5fd0bbc0/08208dfc446f563ae1f43cf7412698fb4e966c45.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4ff0awEXTkopFYsmq4SBCo/412df36e16a1146efec09472f3fcd798/7da9e8abcee0c18416931e590190cbe4044e392a.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6ihjqU9H7fqDSXaTiP5GZn/2db64feedb55db07850f37705c48463e/368bee300992feb0e7fcc2b14f46a7af85af34b6.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1FlPC1gSfQKFNKWQ1yO2jp/d11c3359082475ad63438f60fd021935/2b1d4a4f0a2fbf4fc6726a4f2f87d16e24ea0807.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2i9HpsQ3tyRgFsc9aArg7G/d6a8a9dc694830ad8c2acc9a5fd0bbc0/08208dfc446f563ae1f43cf7412698fb4e966c45.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4ff0awEXTkopFYsmq4SBCo/412df36e16a1146efec09472f3fcd798/7da9e8abcee0c18416931e590190cbe4044e392a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/6ihjqU9H7fqDSXaTiP5GZn/2db64feedb55db07850f37705c48463e/368bee300992feb0e7fcc2b14f46a7af85af34b6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1FlPC1gSfQKFNKWQ1yO2jp/d11c3359082475ad63438f60fd021935/2b1d4a4f0a2fbf4fc6726a4f2f87d16e24ea0807.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/7EflBikCuwUc9L5ADAQx56/196ef76f5a7613b1cd8b3e96111e9f54/1d5bba253e29091d24f4ef95c0722624e8ea73c3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
@@ -2085,12 +2085,12 @@ export const collections = [
                         name: 'Cloud 6 Wide',
                         color: 'Pearl | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1ynNVTfRgYp2A55CWn0vLJ/07abbcba11872610fe649149e0046b23/cd93885ad05c97d8f5418b95d1f4304ea89f1077.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/10vhJcMWSk1hMbiUGvEeD2/4f0a5cfc08552e090f9a2b505763652a/61bd0b5bfe690cba3538e4fee37f6735ec9ae015.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/Eh1oKtXX3Ql6OJgMk0SNV/f00a3cac958d36bd67d578952cc53440/576a7dce84e6026679d92e659e9609717b1da60b.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2F6IvGw6wpZEZ12FVukwxU/671e58582bd1298f856b2bb02799bd45/abdb4b36d42f7d56dee397ff9d122975787adfcb.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5d9R6BpDbSe39FkvUIqHmX/f87c578d7aee626de074f34759b8fc9f/e189845c2398a983891decdf64201c75e8adcabd.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7L1APUt8zmdXEvIotElrJJ/ddfd0530850e786ba19fb2b8255ab3f5/76aaf2d2abfdcdc954f71545e165f3e256022082.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1ynNVTfRgYp2A55CWn0vLJ/07abbcba11872610fe649149e0046b23/cd93885ad05c97d8f5418b95d1f4304ea89f1077.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/10vhJcMWSk1hMbiUGvEeD2/4f0a5cfc08552e090f9a2b505763652a/61bd0b5bfe690cba3538e4fee37f6735ec9ae015.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/Eh1oKtXX3Ql6OJgMk0SNV/f00a3cac958d36bd67d578952cc53440/576a7dce84e6026679d92e659e9609717b1da60b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2F6IvGw6wpZEZ12FVukwxU/671e58582bd1298f856b2bb02799bd45/abdb4b36d42f7d56dee397ff9d122975787adfcb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5d9R6BpDbSe39FkvUIqHmX/f87c578d7aee626de074f34759b8fc9f/e189845c2398a983891decdf64201c75e8adcabd.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/7L1APUt8zmdXEvIotElrJJ/ddfd0530850e786ba19fb2b8255ab3f5/76aaf2d2abfdcdc954f71545e165f3e256022082.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
                     },
@@ -2104,20 +2104,6 @@ export const collections = [
                     {
                         id: 'cloud-6-01',
                         name: 'Cloud 6',
-                        color: 'Sand | Sand',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3cxLEDAY4RA9RaxnRcAGzr/c22fd3c7ccee3eee3e9ffa0d5ffab251/1e8953765f4ad24752609d3a9411448bd072c5a1.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1qfgaE1jn2uGjPZP4CepsM/3094f6247840181438c8a48330f2aa85/6f84984480d71044cc978046b9a62f5754e255da.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7Jzvu8JsytopXKKvNVumfX/a06e27d8d1d41a1b131332483d70b18c/ddc26023f651581e039ee480f4d485b20df061db.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1n9r9MGodrT7niJgrknMQD/64847c27ce527fdc04f0de38d496fea8/d4dbe91681fa2ca6e32dcf5e5f8b419c7e67d240.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4TxPOqX5Xi5ndVCvVkZv2D/77c152b4b2beabd19db50b30508eccef/493103b1e2935bf13cd8eb32e9ea26fe160e57a2.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3lLS22GzfCSswXWxbt3jp7/6c2d101a72f42f9255028b14b91bbc92/180ac730195790adc1556489e0fcde9fc5c4ef4f.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
-                        ],
-                        price: 150
-                    },
-                    {
-                        id: 'cloud-6-02',
-                        name: 'Cloud 6',
                         color: 'White | White',
                         images: [
                             "https://images.ctfassets.net/hnk2vsx53n6l/5kbabItNDd1ROzqcCXTEGh/648d0493d314bb0e2a589f069fc11d63/4b1775f90ba30df9386d0c2cb8c6855362d2d50b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
@@ -2130,25 +2116,25 @@ export const collections = [
                         price: 190
                     },
                     {
-                        id: 'cloud-6-03',
+                        id: 'cloud-6-02',
                         name: 'Cloud 6',
                         color: 'Black | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2Zsq2HLjd31BZmrZMdVRw5/9b8796bdba75c6b77833c856c80e954c/c2983e518c7af3e4fb8c62946d6b3ea7ba0c1229.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2Zsq2HLjd31BZmrZMdVRw5/9b8796bdba75c6b77833c856c80e954c/c2983e518c7af3e4fb8c62946d6b3ea7ba0c1229.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/57z6GNI7G0OlPKWmwvFPPz/f96444701536986ed4db9e7ca2c838b7/15a427be1a75b41d124551887c77de610a6696f6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/32NYq93azInA1OKDT9Fme6/3bc2cea619eb073ba287a45a3af30b92/e3a5234e85a11fa4a2217a69d43d4dd1da8fadfb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/1EKPb4ZAtnNMOcnkRFErbC/e0d3e65c1227c41d441e0ddccbad8df9/7a1d91af31495af71a2f51b3b20e765bc14b0579.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5KHY9kR64h2XqnxZzfPMNF/6cce6654298a9975d5eed1952b1ee52a/c27a6e43c6dcabe2e4f5499a9220201b7ac3dbdf.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5KHY9kR64h2XqnxZzfPMNF/6cce6654298a9975d5eed1952b1ee52a/c27a6e43c6dcabe2e4f5499a9220201b7ac3dbdf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/6w39Pa0AX1bzM5Eb6OoIwG/6b176039e0184acbf077a734ef920673/0ef36daff7cbc91aca77caca9b5e0e56524d35ec.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
                     },
                     {
-                        id: 'cloud-6-04',
+                        id: 'cloud-6-03',
                         name: 'Cloud 6',
                         color: 'Glacier | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3buUxLZnvxohNUmnEznv2j/268ff49f684147c4a74cb182cec78216/02a69380f5b3d34e84fc00783a6bcda7cf283f77.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3buUxLZnvxohNUmnEznv2j/268ff49f684147c4a74cb182cec78216/02a69380f5b3d34e84fc00783a6bcda7cf283f77.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/kdrzg43rpIQbuP6dW2hNX/30a0b653657b83779c9f37d76c08a066/cae4f64dd04050ab9bfaf18acd0b5a9b09ed1132.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/450rXpI40pHTt7yeYxJSdo/4ec58d1507d1b5cc53791b9eab8100a9/7e6f03628d2f60357b0d9b39507e281c6585366e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/kfMlyfwGXFwvkg0ndCrqw/07f8aa85f0719cce1040855882cef692/f440ca47a73af613590ce0906c4c4b5164c5a698.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
@@ -2158,58 +2144,58 @@ export const collections = [
                         price: 190
                     },
                     {
-                        id: 'cloud-6-05',
+                        id: 'cloud-6-04',
                         name: 'Cloud 6',
                         color: 'Pearl | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2RskQw3PTvedzX6C6GZqyr/91f86d8ec095b4d000a1c2e994899c37/c7956c789d97eb0eadb111100b90914481b7f80c.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2RskQw3PTvedzX6C6GZqyr/91f86d8ec095b4d000a1c2e994899c37/c7956c789d97eb0eadb111100b90914481b7f80c.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/BU3wLDkt4XtKPIQF1ewc1/907bc79bbf4d65a5bf7efd114c6d3b34/3354472014ae665b6f9edf308b84bbfce784733c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/3tfKbWXcIxS9nKfrQKYuUB/42ad02b7874c116aabf0b8ac972fa5f1/4a021e9f3b4f1df289d157389707bffafdae26ac.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/33SMJTQWwT9QqX3A1sXcFo/4fd1564e7a616814504b4cb5c71dcc52/6128ddf427e9072cc342fc3c6423544315aa2df3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/12H97gHlxNPO6H3E0R5Na3/8d707c25af516455d5c2004cc4d645d8/f6d4e66fde03597d83f639d8b7e973dcef61396c.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5yzoJMUcgA5jRvHR4oXKgq/8870e911fab49d34c417130fb726da12/2fa89b09e2ee5aea12fdb05c0b8b9c3bcccdc583.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/12H97gHlxNPO6H3E0R5Na3/8d707c25af516455d5c2004cc4d645d8/f6d4e66fde03597d83f639d8b7e973dcef61396c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5yzoJMUcgA5jRvHR4oXKgq/8870e911fab49d34c417130fb726da12/2fa89b09e2ee5aea12fdb05c0b8b9c3bcccdc583.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                        ],
+                        price: 190
+                    },
+                    {
+                        id: 'cloud-6-05',
+                        name: 'Cloud 6',
+                        color: 'Black | Black',
+                        images: [
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2V5JCHX42wElQlYedqYW73/cf103c7c51da9e75a7e99d32d229e679/8c72b478f08014f8528f23fc882b6de60ef3aa86.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2BQyjfprT5CeUn6MymCEqw/5c206076d1de072bbd30b1b8cb5d7a43/27fc54910e82921a42b16ec63f5e93a72841734b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5Q7gRjGPrYI7D6lWziMs6E/94bf84eb7d91dac5d3d12f218012cf9f/9f906fbfef6c7d62187e2aeaa6c9e1fdb12f5963.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2gKfxUBIv4KgeV94SqZrbm/9b8b7d0935f06d112d39c9ac7bb35c4d/acbb04ca784bbfcda3c7b48c4f4055675a1e1bd4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1vadn97kwjWZQktyWHG9eF/350a48477bea68cb1d3025f7e60f537f/598d4357fe605afc2d6a9f352f895c9debfc9690.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1zwxb5AbPt9frGLiDoNggk/936f992c62e7da8d486475af3fce7113/4084c4fcac89baf2bc9548a5ebed0ae8e0f8607f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
                     },
                     {
                         id: 'cloud-6-06',
                         name: 'Cloud 6',
-                        color: 'Black | Black',
+                        color: 'Cinder | Fog',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2V5JCHX42wElQlYedqYW73/cf103c7c51da9e75a7e99d32d229e679/8c72b478f08014f8528f23fc882b6de60ef3aa86.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2BQyjfprT5CeUn6MymCEqw/5c206076d1de072bbd30b1b8cb5d7a43/27fc54910e82921a42b16ec63f5e93a72841734b.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5Q7gRjGPrYI7D6lWziMs6E/94bf84eb7d91dac5d3d12f218012cf9f/9f906fbfef6c7d62187e2aeaa6c9e1fdb12f5963.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2gKfxUBIv4KgeV94SqZrbm/9b8b7d0935f06d112d39c9ac7bb35c4d/acbb04ca784bbfcda3c7b48c4f4055675a1e1bd4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1vadn97kwjWZQktyWHG9eF/350a48477bea68cb1d3025f7e60f537f/598d4357fe605afc2d6a9f352f895c9debfc9690.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1zwxb5AbPt9frGLiDoNggk/936f992c62e7da8d486475af3fce7113/4084c4fcac89baf2bc9548a5ebed0ae8e0f8607f.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4NY81Q3tO8NUnBx35mKX0y/5d7fc031bd7c57ef02362ffac236a0d5/644a3bec8c6cd4c662affe535b93700695d9f3a4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3NdtXe4509gEy2iiEOjnbp/f5d8e97fab9b032f71c9b868ea28774c/9e9c9ce670939dbbca276daa4ee29977056064ff.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4XXAjk04X1uEITpAyWPDcW/75cd09f979f74a812527882b68c8a66a/122c938274d11a3f40e7fd506a47954b053b019c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/2Ktmr8RDCIX5vxdDM75zk2/b2117ba255b2d8121aa2dcac4d7b39f5/d6742eae842e4e3188ba3d3093d94b6d367f361f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/19x0VP7LzcUBJ25607y5EO/cce1883b1627a7b77a61a865d075cace/dead2aea43e80e795a8c2e62c65b6c79949ecdc9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/4LJGx7noTPtjMUdHr23TH9/fdd3aab17661d916c2629d5de9248b56/4b78be56ca123011412b44a3b68ae7048638115d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
                     },
                     {
                         id: 'cloud-6-07',
                         name: 'Cloud 6',
-                        color: 'Cinder | Fog',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4NY81Q3tO8NUnBx35mKX0y/5d7fc031bd7c57ef02362ffac236a0d5/644a3bec8c6cd4c662affe535b93700695d9f3a4.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3NdtXe4509gEy2iiEOjnbp/f5d8e97fab9b032f71c9b868ea28774c/9e9c9ce670939dbbca276daa4ee29977056064ff.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4XXAjk04X1uEITpAyWPDcW/75cd09f979f74a812527882b68c8a66a/122c938274d11a3f40e7fd506a47954b053b019c.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2Ktmr8RDCIX5vxdDM75zk2/b2117ba255b2d8121aa2dcac4d7b39f5/d6742eae842e4e3188ba3d3093d94b6d367f361f.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/19x0VP7LzcUBJ25607y5EO/cce1883b1627a7b77a61a865d075cace/dead2aea43e80e795a8c2e62c65b6c79949ecdc9.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4LJGx7noTPtjMUdHr23TH9/fdd3aab17661d916c2629d5de9248b56/4b78be56ca123011412b44a3b68ae7048638115d.png?w=1600&h=1600&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
-                        ],
-                        price: 190
-                    },
-                    {
-                        id: 'cloud-6-08',
-                        name: 'Cloud 6',
                         color: 'Raspberry | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Cnp4p0LvIIkjxNoPRxrWV/39ddede1a19f9aa5c8c68339dc980508/89cc467e064a7349bce4b7389f3ea79fdc61e8bc.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1Km1aDr2rRuUPChD6uigHh/719bef04902931bad25635c4a3f6f941/24bf1397a2c7c20cd2181a4f22158be235ee6621.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/tKEMqI5u0hM0Ng6YrtK6z/29dc9254b78de532c1c34416c16d04d5/01ee7b16a37ec80d02d0d66e8f08c200fa732e4b.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3hL8ExX4kc27h1NgA7fpd7/c7339668846a4418e79a6df7a16a6b78/453d9df784d22fed431e1f665369d8320c49df78.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3ZRdJ41Oh3ycMxEMrRnRg2/067da5bd1e8b60ecacec8abc71993af1/90d20b4e801f879eededfea454b67636183d1dae.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/J99ZVf9zhc4qZt8Z8Td4l/ebaefd13324e046bcdaf5cac766cc807/c78fa509962e6bdfa75c9da270e32f8b38e27876.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3Cnp4p0LvIIkjxNoPRxrWV/39ddede1a19f9aa5c8c68339dc980508/89cc467e064a7349bce4b7389f3ea79fdc61e8bc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/1Km1aDr2rRuUPChD6uigHh/719bef04902931bad25635c4a3f6f941/24bf1397a2c7c20cd2181a4f22158be235ee6621.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/tKEMqI5u0hM0Ng6YrtK6z/29dc9254b78de532c1c34416c16d04d5/01ee7b16a37ec80d02d0d66e8f08c200fa732e4b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3hL8ExX4kc27h1NgA7fpd7/c7339668846a4418e79a6df7a16a6b78/453d9df784d22fed431e1f665369d8320c49df78.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3ZRdJ41Oh3ycMxEMrRnRg2/067da5bd1e8b60ecacec8abc71993af1/90d20b4e801f879eededfea454b67636183d1dae.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/J99ZVf9zhc4qZt8Z8Td4l/ebaefd13324e046bcdaf5cac766cc807/c78fa509962e6bdfa75c9da270e32f8b38e27876.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
                         price: 190
                     },
@@ -2230,10 +2216,10 @@ export const collections = [
                         name: 'Cloudtilt Arc',
                         color: 'Grain | Ivory',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/kte2dAlhaJljN7GOEWEyf/fb80f65bde133644ef43e30aa23cfe58/cc2a7662d8edb199485cfe3f1aa80acc5e62730b.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3vEmXWiDBeyjXNYnKEKRZc/5e98c16f20a587dae1b2e159bb5840d9/0d19e11f3b0a93aa81f0636fdf172ea82a1fe025.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/kte2dAlhaJljN7GOEWEyf/fb80f65bde133644ef43e30aa23cfe58/cc2a7662d8edb199485cfe3f1aa80acc5e62730b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3vEmXWiDBeyjXNYnKEKRZc/5e98c16f20a587dae1b2e159bb5840d9/0d19e11f3b0a93aa81f0636fdf172ea82a1fe025.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/6Pac4DB6CZgVzRb7kPb1I8/babcf3184546ebab87ca48a4c4dd976d/7058cecf178267d498e87794f6f740db0b0b2a1b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3IuO4neemjr7Op203cLyvi/2a2fdd45eaaed0992dfd7c6256c754dc/1822a735ca2196e0b46ea2d566ab48de494f95dc.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/3IuO4neemjr7Op203cLyvi/2a2fdd45eaaed0992dfd7c6256c754dc/1822a735ca2196e0b46ea2d566ab48de494f95dc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/3mvaLMHcf5V1N9227CIMbn/eba98336035901425940c047c3d6b724/f841f3d44ca6e402b91a1c622763cc007b031daa.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/3xq9eKkEjGFO79gAjTRlsP/8be4db0db2a433aed260add93d75c692/520204d61b2d6c9fddda07ae9e9052ee210c20aa.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
                         ],
@@ -2293,7 +2279,7 @@ export const collections = [
                         name: 'Cloudtilt Remix',
                         color: 'Black | Ivory',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5oBv5noApHqSShJJYwDP09/19c1d881e91225f80edddbf129306c2c/b6fa78624e31521d843d2a43f7b7f5f02ab65632.png?w=2000&h=2000&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
+                            "https://images.ctfassets.net/hnk2vsx53n6l/5oBv5noApHqSShJJYwDP09/19c1d881e91225f80edddbf129306c2c/b6fa78624e31521d843d2a43f7b7f5f02ab65632.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/R8XrLwmFFFSy056uA1kcW/a6facfc3d5834c0d5b72af577d38b6ef/4f471c5ffe29774be96645c924fc2c0963fe4e49.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/uIsVrbmXRl5a7XzQVm91M/ffae8711224d8e6189c9df7592d356f1/6696564d58ee1bcecf4a654afd78d1fdeb1ac1b3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
                             "https://images.ctfassets.net/hnk2vsx53n6l/3aGa0eYtQKm2Sft15Lggcf/2ff2775d4a4cc4894696ecd78ed5e7ef/001dc5d1fc912c04c568ed5bc554dafe1dc3ec24.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
