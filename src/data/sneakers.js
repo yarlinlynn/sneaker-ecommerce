@@ -2590,12 +2590,12 @@ export const collections = [
                         name: 'Cloudzone',
                         color: 'Ivory | Dew',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5AtD5d6nIcayLWWHI0EyU2/895b05a2c5a33824ecd617226ce5f0b9/c6d405380b09c7334dc264ca9984fa85acf6cc7a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4t4MI0jxBsFeQ16QOWnmJc/b575f51c1f0c831e94b07112c3440ce6/3314c93eabf2aaa4291e751f22b094ad12f1b048.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1TcdZHivoHE0qejDkYQOBD/84cecc3fb3f5d38bc8d2f8a4cf18471d/fd717b0029b27734bff88044d3a58cf670ad9f99.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2LlXtjcZrIur0tpj0Oad7t/cd877a3dabeba5ab455fc1413204c045/46c8a6866feb0a79b732747a80157a45cdd31167.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6MSknbJqEo0jOWhyfNlZwj/02f4877709f48b747bb4337dec4fd015/32b4cc5f7b84b84d6365ff0ddb4e943076ee8dd9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3E5DMZ3N7vgGqUUGmIh7s/dbbe984b9b5b7dbead42078045866d45/3f677a19d9348ced3ce8365e28905bebb2fe5c14.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Ivory-Dew/image-06.avif",
                         ],
                         price: 190
                     },
@@ -2604,12 +2604,12 @@ export const collections = [
                         name: 'Cloudzone',
                         color: 'White | White',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2IkAeHdqLnlB5T7wvJfyWw/9ad723851f43cea8a04f1f9aaba8cdc1/04a08af1510d7b2d4f7592a6ae9b23994b1c1b49.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2iP1atgDgbqfAP2Tz0iFOk/413a7bc22e175a9fc9a967d626f6a611/fcc2e685ed991c3c26216799fa20cd70f4ec3d52.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/229sw0eJ39PFGdjp9ewVA5/645c71b1bd4f59ba5f98a3c46a860a8a/b579f1ca235eaa9c517fe1a54dfb601a6bee730d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/dINWjdzB0KstI4GXrlXby/c280dfe7ab7b0efb608e33ccc0fe749b/0749a9bb3b09604c91d644d6c9415cf3264581ce.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6Q83SIIqR1Z2oWhu7v57mf/3986523eab6cc81fb9cbcf504992567a/6364b4ad5a15c58f1d5400ddd7b754e47dcecfa0.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1V0SbvCD9A60yhJIpkqsaF/8fa103009be9c15cb2f4a2e3cd60f219/32acafbce6b61b91f5b8864383777e913a149757.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/White-White/image-06.avif",
                         ],
                         price: 190
                     },
@@ -2618,12 +2618,12 @@ export const collections = [
                         name: 'Cloudzone',
                         color: 'Black | Eclipse',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1soHU3ahqNwaIYHyavDXj3/afe99c302879758b6c2f4edc1bf0f252/a9b639d352a3ed2a0d202f8dc243227d88ddbce5.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1FUVb8Ou4rHQoRrbLprffb/5e743d7dd55a9322f5f0b308f1edc69e/52c05ebd02969995f7e498b512e510b12a654873.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2u9TmsRmHPd6a7zpseeVsJ/c521b2d8e07415fb0f99fd50a3d0acfa/1d42b3d5c19aa5b69aa8882b655bc9c657bdcadf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6DRfYS3ZNQKbAsI7QTtCoh/05c0adc5e4d135793c9dd077462a3b7b/06fac8c532fbb433822d0d2cea6b112cb5ae9abd.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/76auJ54yxSy8xbl9CaHvmQ/28d5fe92dc6d188dc3c4be69e5fff9ea/79e97363639a88600e9095bd61244c8edc2c5947.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4wfVCuHhxy0Sgt6lpsWLmO/485c48aa9cb11abdb38b41151fe7e440/118560b1c126b3124a49df2a0a4cf64c87ba499a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Black-Eclipse/image-06.avif",
                         ],
                         price: 190
                     },
@@ -2632,12 +2632,12 @@ export const collections = [
                         name: 'Cloudzone',
                         color: 'Ice | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3H74k7jYzkqjNgBVUBVdjB/bc41460f95c9836272a39d7dc9fb7d86/37540c81b0f31018723387c3eb841e5b9eda479d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5ILiXdzsMADlt3Dr6H0mPV/60d6279fde3cdc3a1104fcda8c585293/824e05e609792990e653f4a9aadaeca8e863400c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5eyukN8kgsVMIn78QSTXoc/a7d0c9a604b305099ef97d11893e728c/40acb7e39600da6b6e9a185c35c1f82f5f04b377.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/je2TKT9yzNlmP4S1Fvb6t/98ef0ebcbe65df424e0828c0f28927c8/3019b19f3ea43467250c6c539539d4f7cb95fc35.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5dGe9Elp1TfkRoZneNbJox/80a56471082fee6e39044b04df3476d4/c68e1748344367bcc971dd09b40870c84ea40abf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1LC73Ef6rhDBp3MdTy7YqL/e976f55048dbd2d9460100a442b81e54/e8b5e1f205832948df041c1ce9fcde54a81c437f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-01.avif",
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-02.avif",
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-03.avif",
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-04.avif",
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-05.avif",
+                           "./public/sneaker_collection/Cloudzone/Cloudzone/Ice-Black/image-06.avif",
                         ],
                         price: 190
                     },
@@ -2646,12 +2646,12 @@ export const collections = [
                         name: 'Cloudzone',
                         color: 'Pearl | Truffle',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7MWWnWtgJREE9UdX4t9RTz/a6f8c56309b07308d94b0f6e17d8cc25/6c6d0e32d9434fae60cb6651133f5c2ac4cad6a9.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6VV6QVgGDsA8nu9pZCaLhZ/67832cf22a73c5f5aa175209404e2338/44847681db27f4336a0891db088f6900c4e98e43.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2jQ0XuVKCBYKKGXxMuqh62/82e912ecc3110afd809cd6fd28a59dab/202b6646214cb3addeb27c8e596f28075cbfca31.png?w=1600&h=1600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3W2R4zbyflPGt2RWrWImYr/d81a96a61480c7d471ced3c106df2411/3735456766aa10246e81dc474daf1c60493d6029.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5IHjwIjKhvK28ilpQA7XUF/5bb1568ef530d706683307ece6ea68e2/4f52d4160f3a6f5fcbffde4ddff429de70c90dbe.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5ggBT1lF1MOFyH1G048JM6/cef42115e6d893c3b2542b5ff9960cac/03124be812fd1d97f29784df29ca1595c67fdf3e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone/Pearl-Truffle/image-06.avif",
                         ],
                         price: 190
                     },
@@ -2667,12 +2667,12 @@ export const collections = [
                         name: 'Cloudzone Moon',
                         color: 'Black | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1g0JWxW7vWue4kXMIkz2IT/a5aa7958ea535cd23755d8801369f796/d158f994949661639466213054e8871a41921689.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7uLXQENM51yK8yMOeQQenn/50cbc8f732ea3783fda15f3821340ccb/bd76623c1e4e4eb845e465e954db2492e5787f69.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6LtHoNVrYphm9UZhgiBikd/664024bea1be288f89c29ca6f04cf9e4/88c8149591f87b5fd8497fc6710df264aa597188.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6PYWSJ3I9vk2QUBzEX5vXz/d2849edf47be5d2d79ad7daec2d58f95/9c6189e46fe0155f2bdfd8456d089808962c9598.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7Iq0C6KoYs7kepEgH1CqBN/ff6183832b54b3773d5205c50b0520f1/00f3185177612d15d15805deaa3ee3686f471b08.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4feYNG6JkGXQiPhMrKNIrS/2930bf4a3fe40b50afb91d0952af91ee/e3b36ebaec29bb3bcef0dfd3d6f6f3fd9911aee5.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Black/image-06.avif",
                         ],
                         price: 240
                     },
@@ -2681,13 +2681,12 @@ export const collections = [
                         name: 'Cloudzone Moon',
                         color: 'Black | Dew',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5cy38AoC2EUNgiGRKd4e8A/378cba0a3835cdf8d160b3208d7c81ba/ebd031fa4e76e0ff269a2777e8c822b315161ef0.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3PUX1MHnYdeHTncdbi7qiy/64360f3e1e2d4e064a1de6ac1fbdc0a5/bf234df7b3efb3cc6383dfa03c73ddca96b3a43b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5JnxcKm5rAowlDmv7LfDmF/1518350284cb44457d79f0dcb5479630/eca073d7e42fea66531bf01946e1334d1dbb03fe.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6zbeqC3fwYQd0YI7QPeoCM/17e474673db1a29154c298e3e5551285/e959d6cf084f5f1bb04757ccff9803918fe7683f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/VqwXyU8aWeJSn5kUgLd26/5c618c9c33b2b5248b91dc2cfa3b3a62/5ce885d6c0d12f616fe0929c2972536150ccf208.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1tHcWabHTTn1OdK2RsXuwi/e6d27cce696fe045031a4c13999a8239/3be9846d0666d04aa308e33b9e4a618110990b21.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/sljusf0nHjY9dAbjunCK3/14b1df22e9f147b33b0e36e0624481fb/pgwbemkrilfqw6je7yho.jpg?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Black-Dew/image-06.avif",
                         ],
                         price: 240
                     },
@@ -2696,12 +2695,12 @@ export const collections = [
                         name: 'Cloudzone Moon',
                         color: 'Ivory | Ivory',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5ZZHJ9E7L6Jqbxp6vTUV6M/c520c7de400e22839126e83b71dc409e/152565a5dbf7907caf92db7109138844ef4460c4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3tiWpVhbPNNzlgWqTOR7mD/cdbf404f5e2b4560b3509ec74e27e365/7280c4721608c64ea0558c33d57b02d93a79f24a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/31UmKC28Fni9KPQEm4ghab/a69805b5a6924f0a135c625af1ecf315/7a3f9ba29b72cb226d1f2c52b2b13ec1de3cf493.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1zPQI51XFgT55VCdTDXgEr/c4ae2ec3326880d4b18ac08e1cf1b835/92489cbaeecb0269149db9ae8a40676f8c124498.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2OVn8W2Ge5hOrgcs26kCM0/2aba700a126cdb4c6a8ecc6c215c2d39/73a387f313cd78350e0f720cbc5973c70ff3f0f4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5juQHGabZzVi6IYmtWHfbF/a8c1eeb28ad771e86e586a7e49a28be2/a747b15bdc47997828f45fd3894b59ca99211009.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-01.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-02.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-03.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-04.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-05.avif",
+                            "./public/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-06.avif",
                         ],
                         price: 240
                     },
@@ -2722,12 +2721,12 @@ export const collections = [
                         name: 'Cloudultra Pro',
                         color: 'Ivory | Celeste',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4DyMdsPxWqCSBvZQ3r8Ctw/2375a421875cd93e0c9732d4bbb7a118/8b86b50151f93d2d4608f05fbce39d0671afbed8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4eCFJgXADYcUZ6SIGU6eHl/115f03acf1b9e94d0014a651d7aa0cac/a1a9b76c74bd149c527d2d87e40b836965903310.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6w00VozLS6DXye5T76ZGGJ/9362864b910d437a7b9553d00c447ea7/1ae38c2423983bd6e042199f96ac3f0fa9cc8223.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/m4rO9eBmACdt7YbYu8hx6/88c622eaf14af3547712eb63a2a24eef/7bc485045f743f384a03ffe4c8c3910d8bb21261.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5dc7fg15ZeF7MuO9MXlkt2/7a5e003ed4a95cc3494066b1440ed309/76902b8e9d4b06d92585bde891ff1ac9a972260c.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/nCYZTlbKSM7T91Dy4oOsX/51d5f55641051bc15a1b9bface7e67d1/11e10d89367fccdf224207ea3aa01c5f750cfdd1.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Ivory-Celeste/image-06.avif",
                         ],
                         price: 320
                     },
@@ -2736,12 +2735,12 @@ export const collections = [
                         name: 'Cloudultra Pro',
                         color: 'Pearl | Lychee',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3srqZnKk98QscIEJqI3UaK/297b15db974bb4abc41c3878884fdb93/cc5732b42fb9187b1e6ddc95fce18718ee5011ec.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6VL8FkUtIzW7AHvtCeu1PE/be735eb1345c5006aee358f70bc10cae/ed8649fa82bcd4aea01eae90ae913e0efca17cee.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3HC4nwJ098Wvfqu14QsrjY/b67f8933039701585ae7f1e3ce43cec5/a4cd8021fae72480011e11c95df54cfe9b62b7ec.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/tvs8odrELYm0GSNeulExp/2518db1714217b14e15031cdc39e96fb/2f4d97d79d8fc7b687d906cd3aa8c472223269a8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2jw9mlEEgFTqpYfJROkW54/9ce0a92cd6a7f8252295ed7e437c082e/2f4e763545e87892db1d2be9c9ee65a547c19846.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1UFJV0TVpQMeeyp8RyUhZY/892447a9a98f4fd080d782edc35749d1/17d9169c15338a8ff3e4b7488232d64f8d764f16.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Lychee/image-06.avif",
                         ],
                         price: 255
                     },
@@ -2750,12 +2749,12 @@ export const collections = [
                         name: 'Cloudultra Pro',
                         color: 'Pearl | Juniper',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7yPHOZWSNLXVAPP2N8iYGn/9ddcd2e8c8b3f9cd1658d8ce0c475dcd/8d6e4afff65b6875d73289580095d83e2ced5f02.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/55HM7kO1G6QSmeSWJpaE1y/0fb5728d0ea7e7d9334e3305eefa5081/b7ec1986d1e4b9e4ea5ab1db11294edd8772c3a9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2lj3z38Iy0nfZfhXMmN0gp/bf4a44f482e079134b133ec2ab6ee5b2/6cf822a72b9127c225c8660e50a0dcf6e97b64d6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1OWkFrQxUyJo6pnr6vawAh/c80c8c83eb4a45af8fc679ca37314db0/5cdc508c27e92cbcf40afadf098a45a7a325c6c9.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5NbCSkVzb7cqMAGVJAuEtQ/ef7dd8747e9de0711f951ae685903ef4/976f55729b46d599f90ccda8e9886995d0f4a60e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7207Tkg8NfZk6MxZOS5Cur/c91ad029f86a84a313b46cc4044ad856/0a92df3828394651f05361d46183a6b2d7a914ce.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra Pro/Pearl-Juniper/image-06.avif",
                         ],
                         price: 320
                     },
@@ -2771,12 +2770,12 @@ export const collections = [
                         name: 'Cloudultra 3',
                         color: 'Oyster | Ether',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/uomPc55u8hyPkt7MyhEvO/1a6bb3965a8d7b41c24d6c51f4ab5ddd/18e19c1fbaac9f73a765e1b3292daac87582ac5f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7pBfvotWtBSl1sLZbVkw6n/6425d5062cb43e3908fbb63e14a4bb05/f2d85b21f690c0954a8d16ae316fa8140712f2dc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/FAmm0366znULvCvtliF55/38b89d703378f2f9b4cfd0616a14f344/65e9a1acce4cc960d6ad25e990903604d85a7bcc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/43G5CNl35PZdXN8HvTbOYC/a32ce14048a8067120fdb8f2c7169489/b7886b60ceac4a98cb7a1690e0b9953af7372440.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3yp8Fxz1MBbrqHBj66hdhF/bf32b1e404076fa55fb61358b7ff0ed2/7922b316985563dd563b816db6f84fa407ac6aa0.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1V4Lh1o6si0nru9vVJ3Mhm/f56dbff39cf932a8e6884a7a3c9f103c/9c18fac96008f598088b199564253b6f704f4351.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Oyster-Ether/image-06.avif",
                         ],
                         price: 250
                     },
@@ -2785,12 +2784,12 @@ export const collections = [
                         name: 'Cloudultra 3',
                         color: 'Lychee | Lime',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/42Dkcum6foBCYPtddBbuE/11ceae6bf0ee3e5802990545fffe778e/3f76534f435d51be1c9719d67a67ae6d0220b05e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/30GME3sJ4UUpRSXV8xCtuz/132cb102f5bdc7acd4b7105b4ac811f2/52c6f3912789277bbc2c786ef0acb560569aa1da.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/idL0ZF3s9UsynmUKXcjwp/36865450e9f7ac7fc538faeac2b0db98/2395eb4bacd61db4cd130e7bd1439f4b75a58e3e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6ygZVPV3DEe4ZfKTT2MtNS/e16a40dc6ff23d3f13e9ba2aef2a4a93/53c219312ba0f7cddb4311fa8a1c34669255cffc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1moC7MASBrXfsmXmAjtbnN/be26edff54b33d7c5a9a6a94b2cb5b24/618c83c2271898a8dd9e1ff12238244137cb0164.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/63sykUTimtWevODfbXWHyQ/1c0f3a7cdf9f14a4b0621d494adcaec6/8b53ba77b0254b2d1ed9d09d521263f7252b4a24.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Lychee-Lime/image-06.avif",
                         ],
                         price: 150
                     },
@@ -2799,12 +2798,12 @@ export const collections = [
                         name: 'Cloudultra 3',
                         color: 'Iceberg | Glacier',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5FLpVMTu76tGbJMaYgdVPV/2390fb286fe2834fc0b20c0aa3a21c7a/c9ec8a67a9b2388615a040837768935963cfa8f6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/SFz4baDhUpHAciILcFwhv/0eab94d0c8263fa521ce5996b6617e66/0647e2892b160677fc940ec8801ea67175943da3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4bJUv2Eheo27hCjiMb2qyq/9d1db253bb7f892d47c9ca264174c899/1403b37c50e19d10a03f501159b06c40a030a08c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3LY8P8QOl3SFQwdqfnlS56/7165a02024dffa846e141042f474646f/86663c8a3b331526ac91bd181cadd7e30c2f8e97.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3sShnfC2Ad789ah1PPfZut/9425a3de415d3bf9430e079afec2c23b/02795f8a90d9817320704994f706ed3cc5f82d6b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6VC2AA23ya581yyqwExNOf/badc546ee8f8f0c20659e7d79a7a6800/1db92618786033f7202d27b53ae72b9c4e418c6d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Iceberg-Glacier/image-06.avif",
                         ],
                         price: 250
                     },
@@ -2813,12 +2812,12 @@ export const collections = [
                         name: 'Cloudultra 3',
                         color: 'Black | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1fNhtetCM7ffZrNaw6Ct16/6365263fd426171c566767d770f16fd3/e6fa3b3afbffc7979e30ad0b30c556fe2cbb582c.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1vXyatTmRkRAr3GfCUsr9p/59e5dbe5e72e32600ca1357eab131c5c/8f41e0c4a7093f967d0ef30b70c6e24e8280ce28.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2T1NCaOGGgYBmOhcaQRLnY/fc4ce2cd56e1b82d171060c36d375140/eb1a0e4f62f5da55b20560d1ee7793c400488872.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4geFHwemu2aLregmaRuEo5/4e52740c910324e603d8dc3c8165cbe5/3c5cc6b78176a2d3754355d1d3cca178b7336971.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2TfUz9B6R6TviV2ZLYFj3k/28fda0ca17a2ad0762524653f5a8fb39/e5ea3b69bbba7cf8cad8dd407accaad0b0c8458d.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4V6WNDX3NeTLpeRV0se9ae/8f4d711df2ae8d1f0100807df997a5c5/7de6faadc970d2be1a4cae6d218fae6f3fb8c6c0.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-01.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-02.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-03.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-04.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-05.avif",
+                            "./public/sneaker_collection/Cloudultra/Cloudultra 3/Black-Black/image-06.avif",
                         ],
                         price: 250
                     },
@@ -2839,12 +2838,13 @@ export const collections = [
                         name: 'Cloudrock Low Waterproof',
                         color: 'Grain | Soba',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1RoinzW2U496lvqHbFZOrV/d09fedfad507ee098aed75815ac58f44/236c96596edaf3551b63e0ea78f5017dee597e67.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/fnkO09wkgnXYnAMm5reTa/f23a9a5aba6780cc1d36854b51b297df/314e536cdb91c8f2a0936677d30cd043df6c5b4d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7Dy6HgTyaHxGK4YHXWNXp6/36fb4a4260cfd4a37b08d43dcf0ea95f/0f22f26790d04a20be1811a8b9538f12a5e78866.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6oDQ0vTaFYQ5Xg5aR4SXAt/ca67204076b4989a40a672b5c4c9f42f/d7617dd9015ebd878c56859f3415e9c1dfdd4feb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/78JdmFbM19SBUDDcCjHVYz/03b8489190a12335c1fa0bea676d4e7d/c4ca167952e571baa41ab64938073135cd3e7307.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5IZLA7I4Vj8xBfQ9Lak35W/44324c6912b3d232613b5c9c09bba9fe/8878ee045a605038ec62d760d0b1809279b775c7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Grain-Soba/image-06.avif"
+
                         ],
                         price: 240
                     },
@@ -2853,12 +2853,12 @@ export const collections = [
                         name: 'Cloudrock Low Waterproof',
                         color: 'Cinder | Ox',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7JHxUc8jeZtLlzeMmSVIQL/5d1fc385cc6159fd977a70057c75722b/8905f3c1c668fae3ce114b3fa185f1c59a855111.png?w=2800&h=2800&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7MNlrXseT0HSDoGZ92iU51/10be929bef08e2321b2cb04307cbf899/f3a5a11c9f6f4c2713d6ece0c528326f7829ca67.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2yvH7XVn3gmIT93uSPMXMV/2e21d53f587ca2efde7dc6776aa01425/022ce100d88392ac871cad1b30452b2a514573c4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2yWCdFFmIdHT8R7EsB2p4N/aa738b658cf31c92b256848b71a2e8e3/1e862b5ed43a1481adef15028d3e0f055c1f9dd4.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7bSz4ZDpZMJxpJ1StCCUP9/30a6a17f077041ffa67ab402a05022a7/e151197571d9aedc369ddce55ca6a4720a78a2c7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/soEEREH65y01YIj44QJPd/4c2c91006e205c507ccd509036743ead/dec9c1969b77f6327be84390932e426b32f48519.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Cinder-Ox/image-06.avif",
                         ],
                         price: 240
                     },
@@ -2867,12 +2867,12 @@ export const collections = [
                         name: 'Cloudrock Low Waterproof',
                         color: 'Black | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/375w7cu257peN97Rrtog0/cdea473672c0d2a607944de3ee8acf06/dd57345cc7ef5e833814fcd19473e7c65b992958.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/68SgI5xJA6pFUtjLQQ4YzG/1b1d6b765f7563b642af12656e51bfd1/90733c6f138f70daac225dbe5f9809ba8c18dc1c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/VNnqarAcVOKX16qSRVWfn/8c1934ad5b3d890b40aa77c62f09cdd1/afdde4695c27b395687481dc185a308ea521a53f.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4ixOiaO7tbNjTvM3RKohl1/2e82bbaaf5fccd46e6d6a7c36716ac99/e9dbf258ca5cee1635b8fb03c8d1169d0dd1e50e.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2WEoOaG9jqUGhi0VmdJGpu/fee738e1caa084c1cc1032f3049e6179/78a08b80d6a4df5fccd1f99243f616a869d745b4.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1XMltlIjEqlY4gny1aC0Dj/14f6026e910354c632c9431345489988/f19bc149296746ca9ddfc54b1fa37dbe2fd86d49.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Low Waterproof/Black-Black/image-06.avif",
                         ],
                         price: 240
                     },
@@ -2888,12 +2888,12 @@ export const collections = [
                         name: 'Cloudrock Mid Waterproof',
                         color: 'Sphinx | Sand',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5kHvDsMbDiSD7aIwlZNU7/117891c0178d0f2b631109993051cdac/849fde288342b3d5c93fe110a0e0cc85857416a7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3OcZNRd2JSJkCuErY9nxzZ/3d3a06958c1895b2b11f3535763cb598/78690d9b23b51d164e34dc9e491cec5c773e17c7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2IkExpFjEXt8JuuN5XX05e/5afe6682564577329a801dfe35039bc0/17220d3d26740170666461246e995bc7c0070625.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/79Y6rbbuUcI8F3jankY1GL/666e702ac6dc2d02860e17d858c9306c/a0ceefaa255a20f92709938319c749256b16946c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3KTJyVLRLeC8JjX9SbPX5R/01b29f95618631c80aa65693cc05fbcd/2f44dbb5e971cb2f4eb1023d50c8569980d5f97e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6vN9lA1PrFnMDHJRX5uHOW/5c62829cf3e9d3f279c2a64383941217/63d036cbf3619f57ce7b3f020cd9e06174d14e61.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Sphinx-Sand/image-06.avif",
                         ],
                         price: 280
                     },
@@ -2902,12 +2902,12 @@ export const collections = [
                         name: 'Cloudrock Mid Waterproof',
                         color: 'Glacier | Alloy',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1vTACqgJhfNrj12nWrEZBS/41954ae28e421dfe094634664621f241/0312aaa70b83e7a591fb381882ee3ac9bff8e603.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4BpVg9t6sOTYfeHXLLH8TQ/077356bc7cc330913554d0b5a4c876d1/6e0573e6b198292735922960fadb19b981163d0d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/70bFcMCITj9roaDV1bXgWm/bdbb2a97ad34a1b57b8c45e6a91ad46b/177ee6efd8dadc8b1033b8599f9ffe7c31b42a2e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6c01CIarUyVAqZ0RvQA1tS/2e46a0aed8597446a5628dbfbafb9176/f510904dd15c1dd05a187ee0c2bf5576b6502250.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4IgxBlKP5hyGWfMu7WumiO/a893bc7559804f05fc443f5c65b479a3/114184ccf7ce8833a6c72a9fa482019f258b3599.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/309GYfETeIWUZ4QWZOuGDr/a18082bd71d325f1d1b029688042780c/300e890fed1c44c2aed60526f73e308623ce2908.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Glacier-Alloy/image-06.avif",
                         ],
                         price: 280
                     },
@@ -2916,12 +2916,12 @@ export const collections = [
                         name: 'Cloudrock Mid Waterproof',
                         color: 'Black | Black',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3N5AM2qDMi6Zna2ewUSGVC/d04ca3670ca95aa850070645beecdfff/9aa81d7ded3195099e914df434dd5336436ea7a8.png?w=3200&h=3200&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/486NE0eDbbfuWZiiXyKbWU/9dc6c530126562a902261450bc60741e/3944a9b878177e6590b74b7172c353449604e1a1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1VsIukdUcWP7b14XHjkC2H/5c9faf500d8bb293adc25ae285de4c75/b5652b88f1cadc149d06c9d6c92dc46cf6d97628.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4rnJvUVJXmPPl7Y0cHgtJi/22f026e5898c0b0bbc76bcc35252a57a/fc9d4b60957c8648fb85ebdd15447e8ce011c920.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1vfcz79nyhHFxqXHktTNu0/79060a9c8f9de3f0c7f3d8d7016ba67e/aa899f8ed483ea162dd509db3758e0da8a3cf068.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2plDh7ZTkvN75AKVuvWmOj/7b0becbd2b66b3236fe53012641ae2f3/f34dcbcd02d69d9c73e1bc0b14d2275798447a6f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-01.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-02.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-03.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-04.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-05.avif",
+                            "./public/sneaker_collection/Cloudrock/Cloudrock Mid Waterproof/Black-Black/image-06.avif",
                         ],
                         price: 280
                     },
