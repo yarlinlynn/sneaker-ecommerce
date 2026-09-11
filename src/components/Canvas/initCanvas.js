@@ -1,14 +1,18 @@
 
+import { sneakers } from "./canvasData.js";
+
 // attach event lisenters to canvas component
 export function initCanvas() {
     const canvas = document.querySelector("#canvas");
     if (!canvas) return;
 
-    const rows = 12; 
-    const columns = 12; 
-    const boxSize = 240; 
+    const columns = 12;
+    const boxSize = 240;
 
-    const canvasWidth = columns * boxSize; 
+    // Number of rows is determined by the sneaker collection
+    const rows = Math.ceil(sneakers.length / columns);
+
+    const canvasWidth = columns * boxSize;
     const canvasHeight = rows * boxSize;
 
     canvas.style.width = `${canvasWidth}px`;
