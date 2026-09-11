@@ -2536,12 +2536,12 @@ export const collections = [
                         name: 'Cloudboom Strike 2',
                         color: 'Aconite | Verdite',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2sk6KiTbOH86wQjILFamaf/a3843792cc2caa75c61bd087492c1e14/831d1efe99722721c49b089cf3d632d4603fdc71.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2TR9EbLVtOUMnoc0C2wA5l/fde1283a9dc4032f5295f411b73735b8/202523b8371d69540626751f57a23c6a4dbc659f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/XegCvPWPiDGV1mZ02m7qV/bfd881074678620ed75276277ca61e58/92c7e81ec151156a733cc17defdcc6bcc7f4e0d8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/BoahRScqVJo7GLKilrvoa/cc06b4319631ae2fa5bdbb0f61e94ef0/9509523dcd21343bb2d97449ebbb41dbdb77c6aa.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7t4C3zoAbP7ilhz5WROH6s/ab31cad3011743acb5479971d2debdf4/5b898cf44461e969a1185d94ce1396c13f9ba7bd.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4HVUROaw5dor74ObS5kR5S/8b2b7c5ef1afd76c43697daf9b1b5fcd/6516efa04037b25c181192406f12bc194ec3776d.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Aconite-Verdite/image-06.avif`,
                         ],
                         price: 300
                     },
@@ -2550,12 +2550,12 @@ export const collections = [
                         name: 'Cloudboom Strike 2',
                         color: 'White | Camellia',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4iTXLV476QCDizK6WtNwqO/9ee0a53b947a4a85aa9acd31a43eca6a/5f8432a41664b6c0fa43cff4fb7d27e017d9c2d0.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/zuSFfpC2vC1awBa0FGVD7/a7d096a200003839956687416f23d93c/ec40af3c0ac8ddf3e57a5168bc9897beda918804.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/22TqBMPfSOAe1sVuJThaZf/daf21470b56f83380d4649869119f3f8/79de65f4578fbedc80ca369260e94f9465b1bece.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2Y4uPQi6NIuI8bg30IFlru/255695c993bf91f3f6a726e80d9330b8/eb169d6fe30cd04711fb9a175dce6a4085fc764c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1UP4TwBMkNrghIWiCCpDbA/e224562bb5ffff579dd069fa20fbb46a/a24b233a4c497aece41692f0aef461bdfc580926.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1I129dlLZk5GUb55u0tWnQ/dcb9be349559296e390c9cc6c4de04aa/5cef5839e3ab00045a5525be50a8610f98a192eb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/White-Camellia/image-06.avif`,
                         ],
                         price: 300
                     },
@@ -2564,17 +2564,178 @@ export const collections = [
                         name: 'Cloudboom Strike 2',
                         color: 'Verdite | Aconite',
                         images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/SI07GlbycCUwORUoPu42i/a529312894a08de5910e06b3500bcf8d/70178f7b396d1a0e649bac3b92bf4875a1b23f89.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/HyrIVtbw2S3CCF1G2FNsB/852f9ae052e1c7cfcec6fbcf87cbb5a3/c04bb0bf55d51d598c185d10825f867aaf4d1d4e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6CVYJKyP7pCj5p9ubM659C/66cb9dc44b9951ab6c465153a4cc0304/544705ef72778450a9240af4ba9a315a2f82ede7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7pFoYtjR3y1rgaOTWwx00F/2c4f849755de142c79aabbdfaef774c9/2ee5cac09084be6cddbd5c64db59ac60e625d51a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6teIeFSuHK2LbcrZZ1lKag/4ddeef75bf3561ff27885a4c792803f9/de2173a87a5c389e3caab509233423c85576fef5.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/9rs6tfYHcvrKy50yUdnAp/ad8fc3d103b1e00684b9ed478fabbaac/1f7ce122d8da5a313ee548cdfe620fabe48c0b94.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Strike 2/Verdite-Aconite/image-06.avif`,
                         ],
                         price: 300
                     },
                 ]
             },
+            {
+                id: 'lightSpray-cloudboom-strike-2',
+                name: 'LightSpray Cloudboom Strike 2',
+                description: "Tested with athletes for marathons and half marathons. The CloudTec Sphere™ cushioning system is built for a fast ride, with an ultralight Lightspray™ upper. Includes the Elite Run Sock High Hyper.",  
+                sneaker: [
+                    {
+                        id: 'lightSpray-cloudboom-strike-2-01',
+                        name: 'LightSpray Cloudboom Strike 2',
+                        color: 'White | Verdite',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Verdite/image-06.avif`,
+                        ],
+                        price: 360
+                    },
+                    {
+                        id: 'lightSpray-cloudboom-strike-2-02',
+                        name: 'LightSpray Cloudboom Strike 2',
+                        color: 'White | Lime',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/LightSpray Cloudboom Strike 2/White-Lime/image-06.avif`,
+                        ],
+                        price: 360
+                    },
+                ]
+            },
+            {
+                id: 'cloudboom-max',
+                name: 'Cloudboom Max',
+                description: "Made for marathon training. The CloudTec® cushioning system delivers a fast ride with Helion™ HF hyper foam for energy return and lasting comfort.",  
+                sneaker: [
+                    {
+                        id: 'cloudboom-max-01',
+                        name: 'Cloudboom Max',
+                        color: 'White | Celeste',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Celeste/image-06.avif`,
+                        ],
+                        price: 290
+                    },
+                    {
+                        id: 'cloudboom-max-02',
+                        name: 'Cloudboom Max',
+                        color: 'White | Reef',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Reef/image-06.avif`,
+                        ],
+                        price: 290
+                    },
+                    {
+                        id: 'cloudboom-max-03',
+                        name: 'Cloudboom Max',
+                        color: 'White | Juniper',
+                        images: [
+                           `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Juniper/image-06.avif`,
+                        ],
+                        price: 290
+                    },
+                    {
+                        id: 'cloudboom-max-04',
+                        name: 'Cloudboom Max',
+                        color: 'Lime | Raspberry',
+                        images: [
+                           `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/Lime-Raspberry/image-06.avif`,
+                        ],
+                        price: 230
+                    },
+                    {
+                        id: 'cloudboom-max-05',
+                        name: 'Cloudboom Max',
+                        color: 'White | Black',
+                        images: [
+                           `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Max/White-Black/image-06.avif`,
+                        ],
+                        price: 290
+                    },
+                ]
+            },
+            {
+                id: 'cloudboom-volt',
+                name: 'Cloudboom Volt',
+                description: "Made for race day. The CloudTec® cushioning system is engineered for a fast ride and combined with two layers of Helion™ HF hyper foam for energy return.",  
+                sneaker: [
+                    {
+                        id: 'cloudboom-volt-01',
+                        name: 'Cloudboom Volt',
+                        color: 'Celeste | Isle',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Celeste-Isle/image-06.avif`,
+                        ],
+                        price: 260
+                    },
+                    {
+                        id: 'cloudboom-volt-02',
+                        name: 'Cloudboom Volt',
+                        color: 'Ivory | Sunstone',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/Ivory-Sunstone/image-06.avif`,
+                        ],
+                        price: 260
+                    },
+                    {
+                        id: 'cloudboom-volt-03',
+                        name: 'Cloudboom Volt',
+                        color: 'White | Black',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudboom/Cloudboom Volt/White-Black/image-06.avif`,
+                        ],
+                        price: 260
+                    },
+                ]
+            }
         ]
     },
     {
