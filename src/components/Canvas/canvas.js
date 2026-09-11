@@ -1,27 +1,39 @@
 
-import { sneakers } from "./canvasData.js";
+import { canvasItems } from "./canvasData.js";
 
 // render sneaker data to DOM
 export function Canvas() {
     return `
-        ${sneakers.map( (sneaker) => {
-            return `
-                <section class="float-left w-[240px] h-[240px] p-[10px] bg-[#f4efef] border border-[#dadada]">
+        ${canvasItems.map((item) => {
 
-                    <img class="w-full h-[80%] object-contain transition-opacity duration-400 ease-in-out cursor-pointer"
-                        src="${sneaker.images[0]}" 
-                        data-default="${sneaker.images[0]}" 
-                        data-hover="${sneaker.images[1] || sneaker.images[0]}" 
-                        alt="${sneaker.name}" 
-                        loading="lazy"
+            if (item.type === "collection") {
+                return `
+                   <section id="collection-${item.id}" data-type="collection" data-collection-id="${item.id}"
+                        class="float-left w-[240px] h-[240px] p-[10px] bg-[#f4efef] border border-[#dadada] flex items-center justify-center text-center hover:bg-white hover:text-[#111] hover:cursor-pointer">
+                        <h1 class="text-[26px] font-medium uppercase">
+                            ${item.name}
+                        </h1>
+                   </section> 
+                `;
+            }
+
+            return `
+                <section id="sneaker-${item.id}" data-type="sneaker" data-sneaker-id="${item.id}" data-collection-id="${item.collection}"
+                    class="float-left w-[240px] h-[240px] p-[10px] bg-[#f4efef] border border-[#dadada]" >
+                    <img class="w-full h-[80%] object-contain transition-opacity duration-400 ease-in-out cursor-pointer" 
+                        src="${item.images[0]}" 
+                        data-default="${item.images[0]}" 
+                        data-hover="${item.images[1] || item.images[0]}" 
+                        data-sneaker-id="${item.id}"
+                        alt="${item.name}" loading="lazy"
                     />
 
                     <div class="content">
-                        <p class="mt-[-15px] text-[10px] uppercase font-medium text-gray-500">
-                            ${sneaker.name}
-                        </p>
-                        <h1 class="my-[5px] text-[26px] font-medium cursor-pointer">
-                            ${sneaker.color}
+                        <p class="mt-[-15px] text-[10px] uppercase font-medium text-gray-500"> 
+                            ${item.name} 
+                        </p> 
+                        <h1 data-sneaker-id="${item.id}" class="my-[5px] text-[26px] font-medium cursor-pointer"> 
+                            ${item.color} 
                         </h1>
                     </div>
                 </section>
