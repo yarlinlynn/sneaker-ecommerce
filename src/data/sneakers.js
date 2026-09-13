@@ -130,29 +130,29 @@ export const collections = [
                     },
                 ]
             },
-            {
-                id: 'roger-clubhouse-pro2-clay',
-                name: 'THE ROGER Clubhouse Pro 2 Clay',
-                description: 'Hit clay courts in tennis shoes that keep you stable yet agile. Wider, deeper outsole grooves enhance grip and traction.',
-                sneaker: [
-                    {
-                        id: 'roger-clubhouse-pro2-clay-01',
-                        name: 'THE ROGER Clubhouse Pro 2 Clay',
-                        color: 'Oyster | Doe',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/qCGuA64zQp36tIOUAd1P3/0679432883a54932619d6c7ef1b83ff4/6843c3be19c22b2ce9d1456da2891e67149da65f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2AAKqneoXP8xpwLg8ihCeJ/459b82e771dacadc4b314720236cf7ca/e17b412f8606e50300854bb2070fd21743a39b4f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4Y6TGOohbxHirNSySSdJes/ee66eb9f68de88df0cb0c69a446091f9/276c05b6fe4886f7d7a26468f6cae1dedbf1a3cc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4sPFQGcTLdoFl2XZKcWGU0/e82020f2c70a5e35ce2a0d29813f2700/3769dccc90a66ae4b8bed6d438ded41332b127d8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5oku713epw2UNcx97lyUlP/0f5bebb6e2643d8f786f2296aa96e442/3d403472862f4e6d43f3b8d6f1fbb06469a89260.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5hjJ8vjUvPUJiOVgXDemzE/8c3f6bcebf37888ed632aa62879f6a1d/3cb32678c5840b0850e5c3aba8655907b11b09e6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                        ],
-                        price: 240,
+            // {
+            //     id: 'roger-clubhouse-pro2-clay',
+            //     name: 'THE ROGER Clubhouse Pro 2 Clay',
+            //     description: 'Hit clay courts in tennis shoes that keep you stable yet agile. Wider, deeper outsole grooves enhance grip and traction.',
+            //     sneaker: [
+            //         {
+            //             id: 'roger-clubhouse-pro2-clay-01',
+            //             name: 'THE ROGER Clubhouse Pro 2 Clay',
+            //             color: 'Oyster | Doe',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/qCGuA64zQp36tIOUAd1P3/0679432883a54932619d6c7ef1b83ff4/6843c3be19c22b2ce9d1456da2891e67149da65f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2AAKqneoXP8xpwLg8ihCeJ/459b82e771dacadc4b314720236cf7ca/e17b412f8606e50300854bb2070fd21743a39b4f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4Y6TGOohbxHirNSySSdJes/ee66eb9f68de88df0cb0c69a446091f9/276c05b6fe4886f7d7a26468f6cae1dedbf1a3cc.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4sPFQGcTLdoFl2XZKcWGU0/e82020f2c70a5e35ce2a0d29813f2700/3769dccc90a66ae4b8bed6d438ded41332b127d8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5oku713epw2UNcx97lyUlP/0f5bebb6e2643d8f786f2296aa96e442/3d403472862f4e6d43f3b8d6f1fbb06469a89260.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5hjJ8vjUvPUJiOVgXDemzE/8c3f6bcebf37888ed632aa62879f6a1d/3cb32678c5840b0850e5c3aba8655907b11b09e6.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //             ],
+            //             price: 240,
 
-                    },
+            //         },
 
-                ]
-            },
+            //     ]
+            // },
             {
                 id: 'roger-clubhouse-pro3',
                 name: 'THE ROGER Pro 3',
@@ -257,28 +257,28 @@ export const collections = [
                     },
                 ]
             },
-            {
-                id: 'roger-pro-fire-clay',
-                name: 'THE ROGER Pro Fire Clay',
-                description: 'A fierce clay court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
-                sneaker: [
-                    {
-                        id: 'roger-pro-fire-clay-01',
-                        name: 'THE ROGER Pro Fire Clay',
-                        color: 'Doe | White',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5A08P23YN3rtqyz3vDCVYU/bd264eb86e9c3cf2b4e3a2c78e350d51/26e7cabdb49247eddc827e9dea284d7cd5baebc9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4t7IyU7A5SLaife3h5U97n/f18b8b04938cc4bb7278763b1e5212ea/a8d4c1910c9bb5806e255a5150d7360ae26f696e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3lgrbPblxdOY0yNCyLPsiV/52f7497b670b7a602f86a3cc3d38dce2/e23f2a19322ea5545da65ca4de0531251590dfc1.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/Ujbv2vBVUzr1M5hQ69j69/b1834ccd9426bb7ffe90c63d903461a7/ee797efc97e87e5f8c3a399e73a80bcf120e2665.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6YXLAHBx52iANFGmi4qrwH/28a92501e4e876b99fbc45a3c0cfcc7f/fe8958b17a9cfb5c569f8947723e32644e03b350.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1eufFxAqyeDkDyYax31maD/9a2d649284d1937105a3f3bf0dff6861/87466d4f9e0bbc69c89b01fa8f917da931443d6e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 260,
+            // {
+            //     id: 'roger-pro-fire-clay',
+            //     name: 'THE ROGER Pro Fire Clay',
+            //     description: 'A fierce clay court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
+            //     sneaker: [
+            //         {
+            //             id: 'roger-pro-fire-clay-01',
+            //             name: 'THE ROGER Pro Fire Clay',
+            //             color: 'Doe | White',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5A08P23YN3rtqyz3vDCVYU/bd264eb86e9c3cf2b4e3a2c78e350d51/26e7cabdb49247eddc827e9dea284d7cd5baebc9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4t7IyU7A5SLaife3h5U97n/f18b8b04938cc4bb7278763b1e5212ea/a8d4c1910c9bb5806e255a5150d7360ae26f696e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3lgrbPblxdOY0yNCyLPsiV/52f7497b670b7a602f86a3cc3d38dce2/e23f2a19322ea5545da65ca4de0531251590dfc1.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/Ujbv2vBVUzr1M5hQ69j69/b1834ccd9426bb7ffe90c63d903461a7/ee797efc97e87e5f8c3a399e73a80bcf120e2665.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6YXLAHBx52iANFGmi4qrwH/28a92501e4e876b99fbc45a3c0cfcc7f/fe8958b17a9cfb5c569f8947723e32644e03b350.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1eufFxAqyeDkDyYax31maD/9a2d649284d1937105a3f3bf0dff6861/87466d4f9e0bbc69c89b01fa8f917da931443d6e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 260,
 
-                    },
-                ]
-            },
+            //         },
+            //     ]
+            // },
             {
                 id: 'roger-advantage',
                 name: 'THE ROGER Advantage',
@@ -346,98 +346,98 @@ export const collections = [
                     },
                 ]
             },
-            {
-                id: 'roger-pro-fire',
-                name: 'THE ROGER Pro Fire',
-                description: 'A fierce hard court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
-                sneaker: [
-                    {
-                        id: 'roger-pro-fire-01',
-                        name: 'THE ROGER Pro Fire',
-                        color: 'Grain | Ivory',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2i1xdaUmaYPDFW0OgTnzqD/c274e454ca2ced92a2edc0c70eb6b06f/ee3953fe793c54cee6d004f1a8d5d0cf6d03f12c.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/51vDX4W2Ho67G71YGjnY7o/9a780594ee02e881fd9bbeb75a35eb97/a57823c572036dad77e08889d775a85654e0c6d9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/D7TVK2MU5ISX2qyynivDc/2f780ca300d958c8385c869f9304d81e/f4f979279f0023f9687999606dfb3dbb926314e4.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/19S9AkUVm1e6IBgJHaHcgo/59dfd90655f695277f185d514725520c/ced5178f77538d2dc1c037e99fa9b16e084a48da.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5Uli71snMqgbxp7vdtZXD2/dd569c4d3fb22d0b65c77a74da380645/5c340cdb769a42e39322c2c6997a543cf65ee8db.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4oyDesAwopB3AnDV2GoE0E/9da08d888d8f7bcc52cbb8aa8a7e091d/c26713b6a9c66182ae1e6226f171e5b816602ff2.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 260,
+            // {
+            //     id: 'roger-pro-fire',
+            //     name: 'THE ROGER Pro Fire',
+            //     description: 'A fierce hard court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
+            //     sneaker: [
+            //         {
+            //             id: 'roger-pro-fire-01',
+            //             name: 'THE ROGER Pro Fire',
+            //             color: 'Grain | Ivory',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2i1xdaUmaYPDFW0OgTnzqD/c274e454ca2ced92a2edc0c70eb6b06f/ee3953fe793c54cee6d004f1a8d5d0cf6d03f12c.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/51vDX4W2Ho67G71YGjnY7o/9a780594ee02e881fd9bbeb75a35eb97/a57823c572036dad77e08889d775a85654e0c6d9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/D7TVK2MU5ISX2qyynivDc/2f780ca300d958c8385c869f9304d81e/f4f979279f0023f9687999606dfb3dbb926314e4.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/19S9AkUVm1e6IBgJHaHcgo/59dfd90655f695277f185d514725520c/ced5178f77538d2dc1c037e99fa9b16e084a48da.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5Uli71snMqgbxp7vdtZXD2/dd569c4d3fb22d0b65c77a74da380645/5c340cdb769a42e39322c2c6997a543cf65ee8db.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4oyDesAwopB3AnDV2GoE0E/9da08d888d8f7bcc52cbb8aa8a7e091d/c26713b6a9c66182ae1e6226f171e5b816602ff2.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 260,
 
-                    },
-                ]
-            },
-            {
-                id: 'roger-pro-ace',
-                name: 'THE ROGER Pro Ace',
-                description: 'Where performance meets style. Based on the original tennis shoe built with Roger, now featuring striking new detailing.',
-                sneaker: [
-                    {
-                        id: 'roger-pro-ace-01',
-                        name: 'THE ROGER Pro Ace',
-                        color: 'Ivory | Fog',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7jtMIR46givt5SLgCmw8j1/f535685d38271ea39162d7a90edfdf96/6133696e65aaacfbc0fa5865f4f77af4d90cf111.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4eCdT2ypywjZ6SuwbHajN3/52cc548e9515d064ac053bd6be819976/4298f8bc5f9f2b3c77fe643b569e597174708d3d.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6YD2ijBLbaEiIPlZoN4M74/5bc214fd1ed10215c31a7edff6049efc/df18fa285d2e1ee6fcd75e1cf59fe0a5dede01d3.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/YQf2l4deTlEgeDtJEVH7i/d473ecca0b076cc7b2842109e6f9f98d/c228234ed91d2e19344adc5bac3161e2f3e8821c.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4Hij77eQXOAJmxuE8Y3c3D/60f565af9ce0fe190a9ce10a57e0213e/d21afa664660225e3c766a0aec767ad32610bbdb.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Ax0MLNxNxCQdQgkiHoxxY/204f501c4f26b87516c40e85a83f655b/d75d882f1fd10b035e351ea4c73d9f69c8fa9052.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 260,
+            //         },
+            //     ]
+            // },
+            // {
+            //     id: 'roger-pro-ace',
+            //     name: 'THE ROGER Pro Ace',
+            //     description: 'Where performance meets style. Based on the original tennis shoe built with Roger, now featuring striking new detailing.',
+            //     sneaker: [
+            //         {
+            //             id: 'roger-pro-ace-01',
+            //             name: 'THE ROGER Pro Ace',
+            //             color: 'Ivory | Fog',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7jtMIR46givt5SLgCmw8j1/f535685d38271ea39162d7a90edfdf96/6133696e65aaacfbc0fa5865f4f77af4d90cf111.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4eCdT2ypywjZ6SuwbHajN3/52cc548e9515d064ac053bd6be819976/4298f8bc5f9f2b3c77fe643b569e597174708d3d.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6YD2ijBLbaEiIPlZoN4M74/5bc214fd1ed10215c31a7edff6049efc/df18fa285d2e1ee6fcd75e1cf59fe0a5dede01d3.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/YQf2l4deTlEgeDtJEVH7i/d473ecca0b076cc7b2842109e6f9f98d/c228234ed91d2e19344adc5bac3161e2f3e8821c.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4Hij77eQXOAJmxuE8Y3c3D/60f565af9ce0fe190a9ce10a57e0213e/d21afa664660225e3c766a0aec767ad32610bbdb.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3Ax0MLNxNxCQdQgkiHoxxY/204f501c4f26b87516c40e85a83f655b/d75d882f1fd10b035e351ea4c73d9f69c8fa9052.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 260,
 
-                    },
-                ]
-            },
-            {
-                id: 'roger-clubhouse-ace',
-                name: 'THE ROGER Clubhouse Ace',
-                description: 'A tennis-inspired sneaker made with premium materials and hidden CloudTec® for all-day comfort.',
-                sneaker: [
-                    {
-                        id: 'roger-clubhouse-ace-01',
-                        name: 'THE ROGER Clubhouse Ace',
-                        color: 'Ivory | Dew',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2etxsZbPdnl2IN4mwQes53/a2518621c50fb921d0fcff43a84ba148/585d53a9633b4f3ca7cc0369448452cabb117766.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/14InKfJGg1QmvBDFfPO4NT/7f09c954a39641fc4651a4419d00c6c4/7f0ea4b68e20a94910463850a6083f6eb4b95748.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/70L1ZSqmSidKdAa8z0NNe6/6528dabe3c7e2fa9be6cb95a094b7720/70cb03688f573d5eb440bd04875a9131e9175308.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/5ae75GEZtuRE1AXCfAbTbt/ef3157b2c9aa44f106941e4f6ff6a2d4/bcb40635fc5990fa8183cd88c2eaabe0364b34ef.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/51yS28QOLHixruFzBaw988/3a7caa466f89aab7e496bab99a60645b/879ca9aaded4494e9958f613380fc4f13f9b6a76.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1RhsKWCYnhaGhtSbVcKrlU/26fe3afa8f83e45b20c5bf496b52cc48/8bd19c599c56df6c69548b709eba1d59a2b008ba.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 220,
+            //         },
+            //     ]
+            // },
+            // {
+            //     id: 'roger-clubhouse-ace',
+            //     name: 'THE ROGER Clubhouse Ace',
+            //     description: 'A tennis-inspired sneaker made with premium materials and hidden CloudTec® for all-day comfort.',
+            //     sneaker: [
+            //         {
+            //             id: 'roger-clubhouse-ace-01',
+            //             name: 'THE ROGER Clubhouse Ace',
+            //             color: 'Ivory | Dew',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2etxsZbPdnl2IN4mwQes53/a2518621c50fb921d0fcff43a84ba148/585d53a9633b4f3ca7cc0369448452cabb117766.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/14InKfJGg1QmvBDFfPO4NT/7f09c954a39641fc4651a4419d00c6c4/7f0ea4b68e20a94910463850a6083f6eb4b95748.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/70L1ZSqmSidKdAa8z0NNe6/6528dabe3c7e2fa9be6cb95a094b7720/70cb03688f573d5eb440bd04875a9131e9175308.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5ae75GEZtuRE1AXCfAbTbt/ef3157b2c9aa44f106941e4f6ff6a2d4/bcb40635fc5990fa8183cd88c2eaabe0364b34ef.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/51yS28QOLHixruFzBaw988/3a7caa466f89aab7e496bab99a60645b/879ca9aaded4494e9958f613380fc4f13f9b6a76.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1RhsKWCYnhaGhtSbVcKrlU/26fe3afa8f83e45b20c5bf496b52cc48/8bd19c599c56df6c69548b709eba1d59a2b008ba.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 220,
 
-                    },
-                ]
-            },
+            //         },
+            //     ]
+            // },
         ]
     },
     {
         id: "Cloudrunner",
         collection: [
-            {
-                id: 'cloudrunner-3-wide',
-                name: 'Cloudrunner 3 Wide',
-                description: 'Meet the Cloudrunner 3 in a wide fit. The evolution of your favourite everyday running shoe. Now with a broader base and heel clip for support. With a CloudTec® cushioning system for stable runs.',
-                sneaker: [
-                    {
-                        id: 'cloudrunner-3-wide-01',
-                        name: 'Cloudrunner 3 Wide',
-                        color: 'White | Ivory',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4DnujFKuqGKZD0tYi9XGss/d5a7ac0e002dbcd2ef846b6e380dcae1/8578d413e85a6ca298c2c983199f38db626d0b07.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/yayXLC0p6DgmFUG3u87ov/d33128fa9a1f4f8c2f82ffd13e3413f7/17ec0b5edac8c2b08e1e357af07917cb9f53c646.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3JF96Hnk2aV3nc2p9UCd0V/d89efc606fe715efb121bdcd7dc03690/9728fe22dd03bab45564e431f3b0e9e2e22ebeba.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4784cApqJdwccSIpDG3r0r/33669f5b7430772d6a6c7ed61e5cfe75/1a298ebd59a61bd56e4a42c7fb95d7894c250648.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2m6NsKw31Mcf5kcsvobVak/b3e76576a6ad5e040a026b3b02c54a44/94b472a37562fc2d107abd92769a797d28ad73a0.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6VLT2QOgMg7E9lRVB7d64p/28bb3c14004108af1b03348525da7ccf/7c9561dbc5baeaffc74bbac7484ac2f849cac4b3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 200
-                    },
-                ] 
-            },
+            // {
+            //     id: 'cloudrunner-3-wide',
+            //     name: 'Cloudrunner 3 Wide',
+            //     description: 'Meet the Cloudrunner 3 in a wide fit. The evolution of your favourite everyday running shoe. Now with a broader base and heel clip for support. With a CloudTec® cushioning system for stable runs.',
+            //     sneaker: [
+            //         {
+            //             id: 'cloudrunner-3-wide-01',
+            //             name: 'Cloudrunner 3 Wide',
+            //             color: 'White | Ivory',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4DnujFKuqGKZD0tYi9XGss/d5a7ac0e002dbcd2ef846b6e380dcae1/8578d413e85a6ca298c2c983199f38db626d0b07.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/yayXLC0p6DgmFUG3u87ov/d33128fa9a1f4f8c2f82ffd13e3413f7/17ec0b5edac8c2b08e1e357af07917cb9f53c646.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3JF96Hnk2aV3nc2p9UCd0V/d89efc606fe715efb121bdcd7dc03690/9728fe22dd03bab45564e431f3b0e9e2e22ebeba.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4784cApqJdwccSIpDG3r0r/33669f5b7430772d6a6c7ed61e5cfe75/1a298ebd59a61bd56e4a42c7fb95d7894c250648.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2m6NsKw31Mcf5kcsvobVak/b3e76576a6ad5e040a026b3b02c54a44/94b472a37562fc2d107abd92769a797d28ad73a0.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6VLT2QOgMg7E9lRVB7d64p/28bb3c14004108af1b03348525da7ccf/7c9561dbc5baeaffc74bbac7484ac2f849cac4b3.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 200
+            //         },
+            //     ] 
+            // },
             {
                 id: 'cloudrunner-3-waterproof',
                 name: 'Cloudrunner 3 Waterproof',
@@ -1017,53 +1017,53 @@ export const collections = [
                     },
                 ]
             },
-            {
-                id: 'lightspary-cloudmonster-lowe',
-                name: 'LightSpray Cloudmonster LOEWE',
-                description: "Designed by LOEWE × On. Featuring LightSpray™ technology, an ultra-light, barely-there upper for all-day wear. Includes three pairs of brightly colored socks.",  
-                sneaker: [
-                    {
-                        id: 'lightspary-cloudmonster-lowe-01',
-                        name: 'LightSpray Cloudmonster LOEWE',
-                        color: 'White',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6sYe6jFQjoxODIoFbIHHWQ/342222fbbd59033206af21220693859c/53f97f627c344e12cdc408a0067997ae4920182f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3OwS99C1hxwtVA6xoadUyP/3e085481acb2f1e0e50ad09975c58ef0/87c7dafa20e77bd432a36d442d4f2ba7e0cd4ec7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3WkOM8vke31bxvUF9Nabve/f2627f54018ff9fb012acd78e784a9cc/a28f3f1905f21f073f8110f7e3cd8ee30748f6e1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2AwQmXBT9dvAngkRpwlyw8/27c382b1938d0cbb8ece3ddcbd45f4e1/45c222982798aba0538a1969f1b9ed08e7765baf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/6JIfde5bigAFXSZ6j1z4Hm/9c4b9b0fea781417430e6348a894a728/db83908db4370a1f54405cd7f4fb81abcc88f7a1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7dDupL2jCqDDxtHSfN36gY/5ad835321ebb5cf25a02f1088caec36a/e4aaf66976565c6b7aa97aec77657a5eaafc2e45.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 835
-                    },
-                ]
-            },
+            // {
+            //     id: 'lightspary-cloudmonster-lowe',
+            //     name: 'LightSpray Cloudmonster LOEWE',
+            //     description: "Designed by LOEWE × On. Featuring LightSpray™ technology, an ultra-light, barely-there upper for all-day wear. Includes three pairs of brightly colored socks.",  
+            //     sneaker: [
+            //         {
+            //             id: 'lightspary-cloudmonster-lowe-01',
+            //             name: 'LightSpray Cloudmonster LOEWE',
+            //             color: 'White',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6sYe6jFQjoxODIoFbIHHWQ/342222fbbd59033206af21220693859c/53f97f627c344e12cdc408a0067997ae4920182f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3OwS99C1hxwtVA6xoadUyP/3e085481acb2f1e0e50ad09975c58ef0/87c7dafa20e77bd432a36d442d4f2ba7e0cd4ec7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3WkOM8vke31bxvUF9Nabve/f2627f54018ff9fb012acd78e784a9cc/a28f3f1905f21f073f8110f7e3cd8ee30748f6e1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2AwQmXBT9dvAngkRpwlyw8/27c382b1938d0cbb8ece3ddcbd45f4e1/45c222982798aba0538a1969f1b9ed08e7765baf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6JIfde5bigAFXSZ6j1z4Hm/9c4b9b0fea781417430e6348a894a728/db83908db4370a1f54405cd7f4fb81abcc88f7a1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7dDupL2jCqDDxtHSfN36gY/5ad835321ebb5cf25a02f1088caec36a/e4aaf66976565c6b7aa97aec77657a5eaafc2e45.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 835
+            //         },
+            //     ]
+            // },
         ]
     },
     {
         id: "Cloudnova",
         collection: [
-            {
-                id: 'cloudnova-rift',
-                name: 'Cloudnova Rift',
-                description: "The ultimate off-duty sneaker. Retro style, a superior step-in and cushioned CloudTec® comfort.",  
-                sneaker: [
-                    {
-                        id: 'cloudnova-rift-01',
-                        name: 'Cloudnova Rift',
-                        color: 'Alloy | Glacier',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1WJ7spF5CoO1qR0t1IR0XW/9bd6fce5ecc34897d553dbac2b3b8a19/89e3db8007c7e5dd4b7f5ce0c287774388cf9320.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Nb5DSbWuAWleAfY9xk379/9282bb4ff76d7114a620d673798ee992/debf6697f7b4b908bd002c53b267d47d3af2d71d.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/2lnKcBYPbOUPezDTSyLkIb/fd35a66a29d6be1c1b4d84fa4ea924ee/5e4e279c8af40386c3f9d1c67f25ba2253114fcc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/17RucE1sq0wFz1vCKKgGu7/d443c310d5f597e99d69d6d17da6df17/31454bb4d2fa9ab6a0c45ddb350b3d7c2aa65c5e.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3SdgKvcJL26MbZoTEmje4t/747b4f043e1a57d9f536c3623464233e/abe847fcb29fdefcafdc490794f0969744ff1dd4.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4oLy1u1w1RvypMxJkS4B8E/68b7016fe4fa6f80428262167aac7174/6d90627bdac344bd5c0bc9e7889ca5fc3cd623dc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 220
-                    },
-                ]
-            },
+            // {
+            //     id: 'cloudnova-rift',
+            //     name: 'Cloudnova Rift',
+            //     description: "The ultimate off-duty sneaker. Retro style, a superior step-in and cushioned CloudTec® comfort.",  
+            //     sneaker: [
+            //         {
+            //             id: 'cloudnova-rift-01',
+            //             name: 'Cloudnova Rift',
+            //             color: 'Alloy | Glacier',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1WJ7spF5CoO1qR0t1IR0XW/9bd6fce5ecc34897d553dbac2b3b8a19/89e3db8007c7e5dd4b7f5ce0c287774388cf9320.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3Nb5DSbWuAWleAfY9xk379/9282bb4ff76d7114a620d673798ee992/debf6697f7b4b908bd002c53b267d47d3af2d71d.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2lnKcBYPbOUPezDTSyLkIb/fd35a66a29d6be1c1b4d84fa4ea924ee/5e4e279c8af40386c3f9d1c67f25ba2253114fcc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/17RucE1sq0wFz1vCKKgGu7/d443c310d5f597e99d69d6d17da6df17/31454bb4d2fa9ab6a0c45ddb350b3d7c2aa65c5e.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3SdgKvcJL26MbZoTEmje4t/747b4f043e1a57d9f536c3623464233e/abe847fcb29fdefcafdc490794f0969744ff1dd4.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4oLy1u1w1RvypMxJkS4B8E/68b7016fe4fa6f80428262167aac7174/6d90627bdac344bd5c0bc9e7889ca5fc3cd623dc.png?w=4000&h=4000&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 220
+            //         },
+            //     ]
+            // },
             {
                 id: 'cloudnova-2',
                 name: 'Cloudnova 2',
@@ -1377,48 +1377,48 @@ export const collections = [
                     },
                 ]
             },
-            {
-                id: 'cloudsurfer-2-wide',
-                name: 'Cloudsurfer 2 Wide',
-                description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
-                sneaker: [
-                    {
-                        id: 'cloudsurfer-2-wide-01',
-                        name: 'Cloudsurfer 2 Wide',
-                        color: 'Black | Black',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1L7kRCSb4QLp69NNTPTYtP/90889babb864ed5a3912c35545da1660/ad42528e9f33d7293c270e4afe97ce387a467789.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4LH5K7CGZsnX8aa0gtelkZ/0cdf97049501280da9cba31ccce7f801/bf006dd64d4ebf0d95a43f18cb05b9de57797d0b.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4feiZRnMHpmHWz9PgA41Uk/d3d83a3dddd2f541810d62cfe0f96405/201e9d15d642b07a514576b3e87ee8c56ba6b0d7.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4FjjfO2ecFiLrI82qDaQEt/38b9734e7fdf81c213d5b28dc798fdd9/1c40ad3b06fab201b77a161c8962f38d9ab953f3.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3Bl0TtA5OIuqrtS9LRozIp/da8e361afe863f179420fec48654f60a/f4f957055dc69f3b93e365ddbe14253523065801.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7nzntWAjt4ZfYpmC7RVTD9/5eb77f9b882eb5e6a6099aeafdab3d4e/5613aeb81742833782132c43a07bfd07f8f27baa.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 220
-                    },
-                ]
-            },
-            {
-                id: 'cloudsurfer-max-wide',
-                name: 'Cloudsurfer Max Wide',
-                description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
-                sneaker: [
-                    {
-                        id: 'cloudsurfer-max-wide-01',
-                        name: 'Cloudsurfer Max Wide',
-                        color: 'Black | Eclipse',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/17CqEHEeP7K7FUG8LkeoF8/794a1bcf449d88228eb3090110b22d50/a1a31bcf8f1ef2413cbc0ec10ebd4c8518c8d763.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3XHI5V6HPTqcN3x4GaZnNv/f0949d0df690eaa79de34d62fd4e71ac/475f671833987032691333de83040cdf4b373ab6.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/yQU8zIetJnimL9yONjRiD/e16f1d28c4dcefd33b6a31ad5bc569ea/ede4bf564f3342949c094851393a79c046b3dd66.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/uhsxByMJp5Fr5AdHdjiY8/6e42bdd71e808e8502bea97c7a5f1608/b0d052f8f3ddb2f69e7823d602e72bde64d020ec.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1u0fl5rY5PtDCmBygLiFBh/38b5981adc429a1a87ec8422cdc26360/c3f310d5a93aa973460f9d5804228e47d328a1f4.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4e6Wpe3NGSKq6PEmUjKdug/29c25496d92f41cbceb74848cdf3ab21/06eb505d8d6730b748a384fbce56d6195542035b.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 240
-                    },
-                ]
-            },
+            // {
+            //     id: 'cloudsurfer-2-wide',
+            //     name: 'Cloudsurfer 2 Wide',
+            //     description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
+            //     sneaker: [
+            //         {
+            //             id: 'cloudsurfer-2-wide-01',
+            //             name: 'Cloudsurfer 2 Wide',
+            //             color: 'Black | Black',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1L7kRCSb4QLp69NNTPTYtP/90889babb864ed5a3912c35545da1660/ad42528e9f33d7293c270e4afe97ce387a467789.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4LH5K7CGZsnX8aa0gtelkZ/0cdf97049501280da9cba31ccce7f801/bf006dd64d4ebf0d95a43f18cb05b9de57797d0b.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4feiZRnMHpmHWz9PgA41Uk/d3d83a3dddd2f541810d62cfe0f96405/201e9d15d642b07a514576b3e87ee8c56ba6b0d7.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4FjjfO2ecFiLrI82qDaQEt/38b9734e7fdf81c213d5b28dc798fdd9/1c40ad3b06fab201b77a161c8962f38d9ab953f3.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3Bl0TtA5OIuqrtS9LRozIp/da8e361afe863f179420fec48654f60a/f4f957055dc69f3b93e365ddbe14253523065801.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7nzntWAjt4ZfYpmC7RVTD9/5eb77f9b882eb5e6a6099aeafdab3d4e/5613aeb81742833782132c43a07bfd07f8f27baa.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 220
+            //         },
+            //     ]
+            // },
+            // {
+            //     id: 'cloudsurfer-max-wide',
+            //     name: 'Cloudsurfer Max Wide',
+            //     description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
+            //     sneaker: [
+            //         {
+            //             id: 'cloudsurfer-max-wide-01',
+            //             name: 'Cloudsurfer Max Wide',
+            //             color: 'Black | Eclipse',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/17CqEHEeP7K7FUG8LkeoF8/794a1bcf449d88228eb3090110b22d50/a1a31bcf8f1ef2413cbc0ec10ebd4c8518c8d763.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3XHI5V6HPTqcN3x4GaZnNv/f0949d0df690eaa79de34d62fd4e71ac/475f671833987032691333de83040cdf4b373ab6.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/yQU8zIetJnimL9yONjRiD/e16f1d28c4dcefd33b6a31ad5bc569ea/ede4bf564f3342949c094851393a79c046b3dd66.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/uhsxByMJp5Fr5AdHdjiY8/6e42bdd71e808e8502bea97c7a5f1608/b0d052f8f3ddb2f69e7823d602e72bde64d020ec.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1u0fl5rY5PtDCmBygLiFBh/38b5981adc429a1a87ec8422cdc26360/c3f310d5a93aa973460f9d5804228e47d328a1f4.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4e6Wpe3NGSKq6PEmUjKdug/29c25496d92f41cbceb74848cdf3ab21/06eb505d8d6730b748a384fbce56d6195542035b.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 240
+            //         },
+            //     ]
+            // },
             {
                 id: 'cloudsurfer-max',
                 name: 'Cloudsurfer Max',
@@ -1681,27 +1681,27 @@ export const collections = [
     {
         id: "Cloud X", 
         collection:  [
-            {
-                id: 'cloud-X-tempo-pro',
-                name: 'Cloud X Tempo Pro',
-                description: "Worn and tested by athlete Alexander Rončević for hybrid fitness racing, this is your high-performance shoe for responsiveness, power and traction on all surfaces.",  
-                sneaker: [
-                    {
-                        id: 'cloud-X-tempo-pro-01',
-                        name: 'Cloud X Tempo Pro',
-                        color: 'White | Celeste',
-                        images: [
-                            "https://images.ctfassets.net/hnk2vsx53n6l/3t8iq2ag5DyzPNN4Zzo1eL/968264d2ac424544a734089ff9eb8eff/4d6f8a75dc470d126b026928a12660f1571685d8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4f1AyWdmUO8v1FYiYGugfC/7b220bb197684e296d0ecf48613e6428/303e361bb1c94a6b708589f5cc1cbfab03991915.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/1gxBiVdAsoXDQ8qIAJ2bm6/fa360f7ff74ba3ec7906077a91684e44/eb53167c13c952b95f9502b4ea83d44b74ea607e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/4FVEDS4kWw0HdzskEIiUw2/f7921f06aaae8337d162221b8bb8db1d/4be17ea352b46a741a0334d75264d3ab42fe4566.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/77Xx6kLeEZoy10SKf9YH01/f76645026899500b25dde8373c71637a/0e96fe538b920fc01937255c1bdfaafc48b6af1c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-                            "https://images.ctfassets.net/hnk2vsx53n6l/7fSKxeExh3RL3XHGtJ1cBQ/1b004775de5312d03d1229a320834cbb/5c40b67b97949f2fd720b20822a779dcaae30afb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-                        ],
-                        price: 300
-                    },
-                ]
-            },
+            // {
+            //     id: 'cloud-X-tempo-pro',
+            //     name: 'Cloud X Tempo Pro',
+            //     description: "Worn and tested by athlete Alexander Rončević for hybrid fitness racing, this is your high-performance shoe for responsiveness, power and traction on all surfaces.",  
+            //     sneaker: [
+            //         {
+            //             id: 'cloud-X-tempo-pro-01',
+            //             name: 'Cloud X Tempo Pro',
+            //             color: 'White | Celeste',
+            //             images: [
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3t8iq2ag5DyzPNN4Zzo1eL/968264d2ac424544a734089ff9eb8eff/4d6f8a75dc470d126b026928a12660f1571685d8.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4f1AyWdmUO8v1FYiYGugfC/7b220bb197684e296d0ecf48613e6428/303e361bb1c94a6b708589f5cc1cbfab03991915.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1gxBiVdAsoXDQ8qIAJ2bm6/fa360f7ff74ba3ec7906077a91684e44/eb53167c13c952b95f9502b4ea83d44b74ea607e.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4FVEDS4kWw0HdzskEIiUw2/f7921f06aaae8337d162221b8bb8db1d/4be17ea352b46a741a0334d75264d3ab42fe4566.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/77Xx6kLeEZoy10SKf9YH01/f76645026899500b25dde8373c71637a/0e96fe538b920fc01937255c1bdfaafc48b6af1c.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
+            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7fSKxeExh3RL3XHGtJ1cBQ/1b004775de5312d03d1229a320834cbb/5c40b67b97949f2fd720b20822a779dcaae30afb.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
+            //             ],
+            //             price: 300
+            //         },
+            //     ]
+            // },
             {
                 id: 'cloud-X-tempo',
                 name: 'Cloud X Tempo',
