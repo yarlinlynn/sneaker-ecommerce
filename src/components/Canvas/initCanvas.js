@@ -6,7 +6,24 @@ export function initCanvas() {
     const canvas = document.querySelector("#canvas");
     if (!canvas) return;
 
-    const columns = 10;
+    // canvas sizing
+    const { canvasWidth, canvasHeight } = setUpCanvasSize(canvas);
+
+    // image hover
+    initImageHover(canvas);
+
+    // click events
+    initCollectionBox(canvas);
+    initSneakerClickEvents(canvas);
+    
+
+    // dragging effect to canvas component
+    initDragging(canvas, canvasWidth, canvasHeight);
+}
+
+// set up canvas sizing
+function setUpCanvasSize(canvas) {
+    const columns = 12;
     const boxSize = 240;
 
     // Number of rows is determined by the sneaker collection
@@ -18,7 +35,39 @@ export function initCanvas() {
     canvas.style.width = `${canvasWidth}px`;
     canvas.style.height = `${canvasHeight}px`;
 
-    // image hover
+    return { 
+        canvasWidth, 
+        canvasHeight, 
+    };
+}
+
+// click events for collection box
+function initCollectionBox(canvas) {
+    const collectionBox = canvas.querySelectorAll('[data-type="collection"]');
+    collectionBox.forEach((title) => {
+        title.addEventListener("click", () => {
+            console.log("Collection clicked:", { 
+                id: title.id, 
+                name: title.textContent.trim(), 
+            });
+        });
+    });
+}
+
+// click events for sneaker box to open product modal page
+function initSneakerClickEvents(canvas) {
+    const sneakerBox = canvas.querySelectorAll('[data-click="sneaker"]');
+    sneakerBox.forEach((element) => {
+        element.addEventListener("click", () => { 
+            console.log("Sneaker clicked:", { 
+                id: element.dataset.sneakerId, 
+            }); 
+        });
+    });
+}
+
+// image hover
+function initImageHover(canvas) {
     const images = canvas.querySelectorAll("img");
     images.forEach((img) => { 
         img.addEventListener("mouseenter", () => { 
@@ -28,8 +77,11 @@ export function initCanvas() {
             img.src = img.dataset.default; 
         }); 
     });
+}
 
-    // dragging effect to canvas component
+// initialize canvas dragging functionality
+function initDragging(canvas, canvasWidth, canvasHeight) {
+
     let isDragging = false;
     let startCoords = { x: 0, y: 0, };
     let startTranslate = { x: 0, y: 0, };
@@ -82,5 +134,4 @@ export function initCanvas() {
             y: newY, 
         }); 
     }
-
 }
