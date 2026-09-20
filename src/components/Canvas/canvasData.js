@@ -20,6 +20,7 @@ export const canvasItems = collections.flatMap(collection => {
             images: sneaker.images,
             price: sneaker.price,
             collection: collection.id,
+            productCollectionId: productCollection.id,
             productCollection: productCollection.name,
             description: productCollection.description
         }))

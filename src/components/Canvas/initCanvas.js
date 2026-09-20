@@ -59,12 +59,20 @@ function initCollectionBox(canvas) {
 
 // click events for sneaker box to open product modal page
 function initSneakerClickEvents(canvas) {
-    const sneakerBox = canvas.querySelectorAll('[data-click="sneaker"]');
-    sneakerBox.forEach((element) => {
-        element.addEventListener("click", () => { 
-            console.log("Sneaker clicked:", { 
-                id: element.dataset.sneakerId, 
-            }); 
+    const sneakerElement = canvas.querySelectorAll('[data-click="sneaker"]');
+    sneakerElement.forEach( (sneakerBox) => {
+        sneakerBox.addEventListener("click", () => {
+            const sneakerId = sneakerBox.dataset.sneakerId;
+            const sneaker = canvasItems.find(item => item.type === "sneaker" && item.id === sneakerId);
+
+            // check if clicking sneaker element causes an error, to console.log it
+            if(!sneaker) {
+                console.error("Sneaker not found:", sneakerId);
+                return;
+            }
+
+            console.log("Sneaker clicked:", sneaker);
+            // openProductModalPage(sneaker);
         });
     });
 }
