@@ -26,8 +26,11 @@ function setUpCanvasSize(canvas) {
     const columns = 12;
     const boxSize = 240;
 
+    const sneakerData = canvasItems.filter(item => item.type === "sneaker");
+
     // Number of rows is determined by the sneaker collection
-    const rows = Math.ceil(canvasItems.length / columns);
+    // const rows = Math.ceil(canvasItems.length / columns);
+    const rows = Math.ceil(sneakerData.length / columns);
 
     const canvasWidth = columns * boxSize;
     const canvasHeight = rows * boxSize;
