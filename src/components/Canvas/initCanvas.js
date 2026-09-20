@@ -1,6 +1,8 @@
 
 import { canvasItems } from "./canvasData.js";
 
+import { openProductModal } from "../Modal/initProductModal.js";
+
 // attach event lisenters to canvas component
 export function initCanvas() {
     const canvas = document.querySelector("#canvas");
@@ -72,7 +74,7 @@ function initSneakerClickEvents(canvas) {
             }
 
             console.log("Sneaker clicked:", sneaker);
-            // openProductModalPage(sneaker);
+            openProductModal(sneaker);
         });
     });
 }

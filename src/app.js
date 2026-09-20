@@ -20,6 +20,8 @@ document.addEventListener("DOMContentLoaded", async () => {
         >
             ${Canvas()}
         </main>
+
+        <section id="modal"></section>
     `;
 
     initCanvas();
