@@ -169,6 +169,34 @@ export const collections = [
                         ],
                         price: 250
                     },
+                    {
+                        id: 'roger-centre-court-04',
+                        name: 'THE ROGER Centre Court',
+                        color: 'White | Gum',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Gum/image-06.avif`,
+                        ],
+                        price: 250
+                    },
+                    {
+                        id: 'roger-centre-court-05',
+                        name: 'THE ROGER Centre Court',
+                        color: 'White | Flame',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Centre Court/White-Flame/image-06.avif`,
+                        ],
+                        price: 250
+                    },
                 ]
             },
             // {
@@ -2773,7 +2801,7 @@ export const collections = [
                 ]
             },
             {
-               id: 'cloudsolo-LOEWE',
+                id: 'cloudsolo-LOEWE',
                 name: 'Cloudsolo LOEWE',
                 description: "A distinctive design and unique underfoot feel. Swiss engineering and Spanish craftsmanship combine in this all-day shoe.",  
                 sneaker: [
@@ -2905,6 +2933,55 @@ export const collections = [
                     },
                 ]
             },
+            {
+                id: 'cloudpulse-2',
+                name: 'Cloudpulse 2',
+                description: "Built for HIIT and circuits, delivering stability, energy return and reactivity. Now with next-level comfort underfoot.",  
+                sneaker: [
+                    {
+                        id: 'cloudpulse-2-01',
+                        name: 'Cloudpulse 2',
+                        color: 'White | White',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/White-White/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudpulse-2-02',
+                        name: 'Cloudpulse 2',
+                        color: 'Peony | Frost',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Peony-Frost/image-06.avif`,
+                        ],
+                        price: 150
+                    },
+                    {
+                        id: 'cloudpulse-2-03',
+                        name: 'Cloudpulse 2',
+                        color: 'Dew | White',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudpulse 2/Dew-White/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                ]
+            }
         ]
     },
     {
