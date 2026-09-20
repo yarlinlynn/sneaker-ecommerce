@@ -78,6 +78,48 @@ export const collections = [
                         ],
                         price: 180
                     },
+                    {
+                        id: 'roger-clubhouse-06',
+                        name: 'The Roger Clubhouse',
+                        color: 'White | Pearl',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Pearl/image-06.avif`,
+                        ],
+                        price: 180
+                    },
+                    {
+                        id: 'roger-clubhouse-07',
+                        name: 'The Roger Clubhouse',
+                        color: 'White | Evergreen',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Evergreen/image-06.avif`,
+                        ],
+                        price: 180
+                    },
+                    {
+                        id: 'roger-clubhouse-08',
+                        name: 'The Roger Clubhouse',
+                        color: 'White | Grenadine',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Clubhouse/White-Grenadine/image-06.avif`,
+                        ],
+                        price: 180
+                    },
                 ]
             },
             {
@@ -256,28 +298,58 @@ export const collections = [
                     },
                 ]
             },
-            // {
-            //     id: 'roger-pro-fire-clay',
-            //     name: 'THE ROGER Pro Fire Clay',
-            //     description: 'A fierce clay court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
-            //     sneaker: [
-            //         {
-            //             id: 'roger-pro-fire-clay-01',
-            //             name: 'THE ROGER Pro Fire Clay',
-            //             color: 'Doe | White',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5A08P23YN3rtqyz3vDCVYU/bd264eb86e9c3cf2b4e3a2c78e350d51/26e7cabdb49247eddc827e9dea284d7cd5baebc9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4t7IyU7A5SLaife3h5U97n/f18b8b04938cc4bb7278763b1e5212ea/a8d4c1910c9bb5806e255a5150d7360ae26f696e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3lgrbPblxdOY0yNCyLPsiV/52f7497b670b7a602f86a3cc3d38dce2/e23f2a19322ea5545da65ca4de0531251590dfc1.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/Ujbv2vBVUzr1M5hQ69j69/b1834ccd9426bb7ffe90c63d903461a7/ee797efc97e87e5f8c3a399e73a80bcf120e2665.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6YXLAHBx52iANFGmi4qrwH/28a92501e4e876b99fbc45a3c0cfcc7f/fe8958b17a9cfb5c569f8947723e32644e03b350.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1eufFxAqyeDkDyYax31maD/9a2d649284d1937105a3f3bf0dff6861/87466d4f9e0bbc69c89b01fa8f917da931443d6e.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 260,
+            {
+                id: 'roger-pro-fire-clay',
+                name: 'THE ROGER Pro Fire Clay',
+                description: 'A fierce clay court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
+                sneaker: [
+                    {
+                        id: 'roger-pro-fire-clay-01',
+                        name: 'THE ROGER Pro Fire Clay',
+                        color: 'Doe | White',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Doe-White/image-06.avif`,
+                        ],
+                        price: 260,
 
-            //         },
-            //     ]
-            // },
+                    },
+                    {
+                        id: 'roger-pro-fire-clay-02',
+                        name: 'THE ROGER Pro Fire Clay',
+                        color: 'Currant | Horizon',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Currant-Horizon/image-06.avif`,
+                        ],
+                        price: 260,
+
+                    },
+                    {
+                        id: 'roger-pro-fire-clay-03',
+                        name: 'THE ROGER Pro Fire Clay',
+                        color: 'Arctic | Pink',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire Clay/Arctic-Pink/image-06.avif`,
+                        ],
+                        price: 260,
+
+                    },
+                ]
+            },
             {
                 id: 'roger-advantage',
                 name: 'THE ROGER Advantage',
@@ -339,6 +411,66 @@ export const collections = [
                             `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Black-Black/image-04.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Black-Black/image-05.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Black-Black/image-06.avif`,
+                        ],
+                        price: 200,
+
+                    },
+                    {
+                        id: 'roger-advantage-05',
+                        name: 'THE ROGER Advantage',
+                        color: 'Wolf | Glacier',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Wolf-Glacier/image-06.avif`,
+                        ],
+                        price: 200,
+
+                    },
+                    {
+                        id: 'roger-advantage-06',
+                        name: 'THE ROGER Advantage',
+                        color: 'White | Olive',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Olive/image-06.avif`,
+                        ],
+                        price: 200,
+
+                    },
+                    {
+                        id: 'roger-advantage-07',
+                        name: 'THE ROGER Advantage',
+                        color: 'Ivory | Ivory',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/Ivory-Ivory/image-06.avif`,
+                        ],
+                        price: 200,
+
+                    },
+                    {
+                        id: 'roger-advantage-08',
+                        name: 'THE ROGER Advantage',
+                        color: 'White | Indigo',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Advantage/White-Indigo/image-06.avif`,
                         ],
                         price: 200,
 
@@ -434,28 +566,58 @@ export const collections = [
                     },
                 ]
             },
-            // {
-            //     id: 'roger-pro-fire',
-            //     name: 'THE ROGER Pro Fire',
-            //     description: 'A fierce hard court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
-            //     sneaker: [
-            //         {
-            //             id: 'roger-pro-fire-01',
-            //             name: 'THE ROGER Pro Fire',
-            //             color: 'Grain | Ivory',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2i1xdaUmaYPDFW0OgTnzqD/c274e454ca2ced92a2edc0c70eb6b06f/ee3953fe793c54cee6d004f1a8d5d0cf6d03f12c.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/51vDX4W2Ho67G71YGjnY7o/9a780594ee02e881fd9bbeb75a35eb97/a57823c572036dad77e08889d775a85654e0c6d9.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/D7TVK2MU5ISX2qyynivDc/2f780ca300d958c8385c869f9304d81e/f4f979279f0023f9687999606dfb3dbb926314e4.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/19S9AkUVm1e6IBgJHaHcgo/59dfd90655f695277f185d514725520c/ced5178f77538d2dc1c037e99fa9b16e084a48da.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/5Uli71snMqgbxp7vdtZXD2/dd569c4d3fb22d0b65c77a74da380645/5c340cdb769a42e39322c2c6997a543cf65ee8db.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4oyDesAwopB3AnDV2GoE0E/9da08d888d8f7bcc52cbb8aa8a7e091d/c26713b6a9c66182ae1e6226f171e5b816602ff2.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 260,
+            {
+                id: 'roger-pro-fire',
+                name: 'THE ROGER Pro Fire',
+                description: 'A fierce hard court tennis shoe that elite players can trust. Engineered for aggressive sprints, stops and slides.',
+                sneaker: [
+                    {
+                        id: 'roger-pro-fire-01',
+                        name: 'THE ROGER Pro Fire',
+                        color: 'Grain | Ivory',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Grain-Ivory/image-06.avif`,
+                        ],
+                        price: 260,
 
-            //         },
-            //     ]
-            // },
+                    },
+                    {
+                        id: 'roger-pro-fire-02',
+                        name: 'THE ROGER Pro Fire',
+                        color: 'Pink | Flame',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Pink-Flame/image-06.avif`,
+                        ],
+                        price: 260,
+
+                    },
+                    {
+                        id: 'roger-pro-fire-03',
+                        name: 'THE ROGER Pro Fire',
+                        color: 'Black | Pink',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/The Roger/THE ROGER Pro Fire/Black-Pink/image-06.avif`,
+                        ],
+                        price: 260,
+
+                    },
+                ]
+            },
             // {
             //     id: 'roger-pro-ace',
             //     name: 'THE ROGER Pro Ace',
@@ -1033,43 +1195,36 @@ export const collections = [
                         ],
                         price: 160
                     },
+                    {
+                        id: 'cloudmonster-void-06',
+                        name: 'Cloudmonster Void',
+                        color: 'Dew | Truffle',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Dew-Truffle/image-06.avif`,
+                        ],
+                        price: 160
+                    },
+                    {
+                        id: 'cloudmonster-void-07',
+                        name: 'Cloudmonster Void',
+                        color: 'Alloy | Glacier',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Void/Alloy-Glacier/image-06.avif`,
+                        ],
+                        price: 160
+                    },
                 ]
             },
-            // {
-            //     id: 'cloudmonster-3-mule',
-            //     name: 'Cloudmonster 3 Mule',
-            //     description: "Co-curated with FKA Twigs, these all-day sneaker mules feature triple-layer CloudTec® cushioning and a terry lining for ultimate comfort.",  
-            //     sneaker: [
-            //         {
-            //             id: 'cloudmonster-3-mule-01',
-            //             name: 'Cloudmonster 3 Mule',
-            //             color: 'SLoess | Hare',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/ECqThBMPJOwppUnPOeGH8/67ac5cd413439156862bedec43df0a42/6f8a77322a18019248d6ec5f7b02064e4982ea18.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6ycXAicsMNmgCP8bOYbwc6/e2c8342ace1af537edd5f4875b15c8db/8588f97f781e32066bb5903cffcec041aa37d308.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6rJgk6Dp6SHVb3CdUqtmq9/43b3745ce61a572cec5c8c0f2b67429c/3b705071cec39039044efff90c02f4184d840a88.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4rOiA75TXNBL141cuY4tkd/83865edaf3fc22633eddabd8e34bb113/21de99c4e2e007f9dd192c74bdeaa98c80d656f7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3AWS6xt2C0Zzp65eRvZRaf/9d079add156d54d2062278144a16fa90/9b73912201362a2f34bd2e3da7e592e61e94dcf7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3gWKKCh0jPjmRCErQOcOe0/830f1ca9513db732f5cb92efeb2ec79f/8957a0fd7a479f8a2e255b877bf8142dff6f5833.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 230
-            //         },
-            //         {
-            //             id: 'cloudmonster-3-mule-02',
-            //             name: 'Cloudmonster 3 Mule',
-            //             color: 'Cacao | Espresso',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/Ib8crlWLBqQD9jTrI1lxx/859df265c613f67e28ad8d515d3eb85f/d247f13736bd181510844a9b11d2caf826704f6a.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2QlBdMZ5yPjcpXefRycjHG/b0ab0c664473fb6d37d2953f35a9fda7/3ee879718378c4606357bb3a06d247ee0e141b99.png?w=2400&h=2400&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4s3kNR1R4xrbzO12w8hoGK/2124abcd447d55cb4485a1d660519125/2b56ffddbdcc982aa59d241b2b2ecb40326c298b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/19d1qjA0xqaKtmKlMlgHL4/5251934e0f6ba318e4a2ce8b4ad5b444/9f516ab4a385f739eeb396667137ab8a5abbdd2a.png?w=3600&h=3600&fm=jpg&fl=progressive&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6PoVdh4ByG7fqnlcKvHgMP/3ac89fe30202c5fdc07d794b93af38d2/edaa38e65691f9828b7ac85094dd39eb64b6119b.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4UVuv7Wb7zqdXDXfwVQIwW/cd332fc2fd97a73998710603bd0cd4dd/b55cb1a2f607540a70b4a7aa5bfaf5dd457a4447.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 230
-            //         },
-            //     ]
-            // },
             {
                 id: 'cloudmonster-1',
                 name: 'Cloudmonster 1',
@@ -1133,27 +1288,216 @@ export const collections = [
                     },
                 ]
             },
-            // {
-            //     id: 'lightspary-cloudmonster-lowe',
-            //     name: 'LightSpray Cloudmonster LOEWE',
-            //     description: "Designed by LOEWE × On. Featuring LightSpray™ technology, an ultra-light, barely-there upper for all-day wear. Includes three pairs of brightly colored socks.",  
-            //     sneaker: [
-            //         {
-            //             id: 'lightspary-cloudmonster-lowe-01',
-            //             name: 'LightSpray Cloudmonster LOEWE',
-            //             color: 'White',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6sYe6jFQjoxODIoFbIHHWQ/342222fbbd59033206af21220693859c/53f97f627c344e12cdc408a0067997ae4920182f.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3OwS99C1hxwtVA6xoadUyP/3e085481acb2f1e0e50ad09975c58ef0/87c7dafa20e77bd432a36d442d4f2ba7e0cd4ec7.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3WkOM8vke31bxvUF9Nabve/f2627f54018ff9fb012acd78e784a9cc/a28f3f1905f21f073f8110f7e3cd8ee30748f6e1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/2AwQmXBT9dvAngkRpwlyw8/27c382b1938d0cbb8ece3ddcbd45f4e1/45c222982798aba0538a1969f1b9ed08e7765baf.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/6JIfde5bigAFXSZ6j1z4Hm/9c4b9b0fea781417430e6348a894a728/db83908db4370a1f54405cd7f4fb81abcc88f7a1.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7dDupL2jCqDDxtHSfN36gY/5ad835321ebb5cf25a02f1088caec36a/e4aaf66976565c6b7aa97aec77657a5eaafc2e45.png?w=1200&h=1200&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 835
-            //         },
-            //     ]
-            // },
+            {
+                id: 'cloudmonster-hyper-PAF',
+                name: 'Cloudmonster Hyper PAF',
+                description: "Our most propulsive, max-cushioned running shoe for powerful energy return. Designed by On × POST ARCHIVE FACTION (PAF).",  
+                sneaker: [
+                    {
+                        id: 'cloudmonster-hyper-PAF-01',
+                        name: 'Cloudmonster Hyper PAF',
+                        color: 'Phantom | Apollo',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Phantom-Apollo/image-06.avif`,
+                        ],
+                        price: 835
+                    },
+                    {
+                        id: 'cloudmonster-hyper-PAF-02',
+                        name: 'Cloudmonster Hyper PAF',
+                        color: 'White | White',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/White-White/image-06.avif`,
+                        ],
+                        price: 835
+                    },
+                    {
+                        id: 'cloudmonster-hyper-PAF-03',
+                        name: 'Cloudmonster Hyper PAF',
+                        color: 'Black | Black',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster Hyper PAF/Black-Black/image-06.avif`,
+                        ],
+                        price: 835
+                    },
+                ]
+            },
+            {
+                id: 'cloudmonster-2',
+                name: 'Cloudmonster 2',
+                description: "We did it again. This time with more cushioning, more propulsion, and added energy return. Supercharge your run with these max cushioned, max energy road runners.",  
+                sneaker:  [
+                    {
+                        id: 'cloudmonster-2-01',
+                        name: 'Cloudmonster 2',
+                        color: 'Nimbus | Arctic',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Nimbus-Arctic/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-02',
+                        name: 'Cloudmonster 2',
+                        color: 'Black | Frost',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Frost/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-03',
+                        name: 'Cloudmonster 2',
+                        color: 'White | Frost',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Frost/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-04',
+                        name: 'Cloudmonster 2',
+                        color: 'Ivory | Tangerine',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Tangerine/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-05',
+                        name: 'Cloudmonster 2',
+                        color: 'Black | Eclipse',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Black-Eclipse/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-06',
+                        name: 'Cloudmonster 2',
+                        color: 'Ivory | Red',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Ivory-Red/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-07',
+                        name: 'Cloudmonster 2',
+                        color: 'Cream | Horizon',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Cream-Horizon/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-08',
+                        name: 'Cloudmonster 2',
+                        color: 'White | Flame',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/White-Flame/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-09',
+                        name: 'Cloudmonster 2',
+                        color: 'Frost | Rock',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Frost-Rock/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-10',
+                        name: 'Cloudmonster 2',
+                        color: 'Asphalt | Iron',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Iron/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudmonster-2-11',
+                        name: 'Cloudmonster 2',
+                        color: 'Asphalt | Lima',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudmonster/Cloudmonster 2/Asphalt-Lima/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                ]
+            }
         ]
     },
     {
@@ -1407,6 +1751,34 @@ export const collections = [
                         ],
                         price: 220
                     },
+                    {
+                        id: 'cloudsurfer-2-06',
+                        name: 'Cloudsurfer 2',
+                        color: 'Lilac | Ivory',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Lilac-Ivory/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudsurfer-2-07',
+                        name: 'Cloudsurfer 2',
+                        color: 'Tangerine | Ivory',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2/Tangerine-Ivory/image-06.avif`,
+                        ],
+                        price: 220
+                    },
                 ]
             },
             {
@@ -1493,27 +1865,41 @@ export const collections = [
                     },
                 ]
             },
-            // {
-            //     id: 'cloudsurfer-2-wide',
-            //     name: 'Cloudsurfer 2 Wide',
-            //     description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
-            //     sneaker: [
-            //         {
-            //             id: 'cloudsurfer-2-wide-01',
-            //             name: 'Cloudsurfer 2 Wide',
-            //             color: 'Black | Black',
-            //             images: [
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/1L7kRCSb4QLp69NNTPTYtP/90889babb864ed5a3912c35545da1660/ad42528e9f33d7293c270e4afe97ce387a467789.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4LH5K7CGZsnX8aa0gtelkZ/0cdf97049501280da9cba31ccce7f801/bf006dd64d4ebf0d95a43f18cb05b9de57797d0b.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4feiZRnMHpmHWz9PgA41Uk/d3d83a3dddd2f541810d62cfe0f96405/201e9d15d642b07a514576b3e87ee8c56ba6b0d7.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/4FjjfO2ecFiLrI82qDaQEt/38b9734e7fdf81c213d5b28dc798fdd9/1c40ad3b06fab201b77a161c8962f38d9ab953f3.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/3Bl0TtA5OIuqrtS9LRozIp/da8e361afe863f179420fec48654f60a/f4f957055dc69f3b93e365ddbe14253523065801.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80",
-            //                 "https://images.ctfassets.net/hnk2vsx53n6l/7nzntWAjt4ZfYpmC7RVTD9/5eb77f9b882eb5e6a6099aeafdab3d4e/5613aeb81742833782132c43a07bfd07f8f27baa.png?w=1600&h=1600&fm=avif&f=center&fit=fill&q=80"
-            //             ],
-            //             price: 220
-            //         },
-            //     ]
-            // },
+            {
+                id: 'cloudsurfer-2-wide',
+                name: 'Cloudsurfer 2 Wide',
+                description: "Built for everyday running, with a CloudTec Phase™ cushioning system for a smooth ride and seamless heel-to-toe transitions. Soft Helion™ foam delivers lasting comfort, mile after mile.",  
+                sneaker: [
+                    {
+                        id: 'cloudsurfer-2-wide-01',
+                        name: 'Cloudsurfer 2 Wide',
+                        color: 'Black | Black',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Black/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudsurfer-2-wide-02',
+                        name: 'Cloudsurfer 2 Wide',
+                        color: 'Black | Malibu',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer 2 Wide/Black-Malibu/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                ]
+            },
             // {
             //     id: 'cloudsurfer-max-wide',
             //     name: 'Cloudsurfer Max Wide',
@@ -1621,6 +2007,47 @@ export const collections = [
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/White-White/image-04.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/White-White/image-05.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/White-White/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudsurfer-max-07',
+                        name: 'Cloudsurfer Max',
+                        color: 'Asphalt | Ice',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Asphalt-Ice/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudsurfer-max-08',
+                        name: 'Cloudsurfer Max',
+                        color: 'Cinder | Pelican',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Cinder-Pelican/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudsurfer-max-09',
+                        name: 'Cloudsurfer Max',
+                        color: 'Dust | Ivory',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Dust-Ivory/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Dust-Ivory/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Dust-Ivory/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Dust-Ivory/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudsurfer/Cloudsurfer Max/Dust-Ivory/image-06.avif`,
                         ],
                         price: 240
                     },
@@ -2345,6 +2772,139 @@ export const collections = [
                     },
                 ]
             },
+            {
+               id: 'cloudsolo-LOEWE',
+                name: 'Cloudsolo LOEWE',
+                description: "A distinctive design and unique underfoot feel. Swiss engineering and Spanish craftsmanship combine in this all-day shoe.",  
+                sneaker: [
+                    {
+                        id: 'cloudsolo-LOEWE-01',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Khaki Green | Sand',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Khaki Green-Sand/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-02',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Black | White',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Black-White/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-03',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Dark Sand | Cream',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Sand-Cream/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-04',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Sand | Turquoise',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Sand-Turquoise/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-05',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Dark Brown | Black',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Dark Brown-Black/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-06',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Lime Green',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Lime Green/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-07',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'White | Light Grey',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/White-Light Grey/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-08',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Orange',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Orange/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                    {
+                        id: 'cloudsolo-LOEWE-09',
+                        name: 'Cloudsolo LOEWE',
+                        color: 'Turquoise',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloud/Cloudsolo LOEWE/Turquoise/image-06.avif`,
+                        ],
+                        price: 610
+                    },
+                ]
+            },
         ]
     },
     {
@@ -2627,6 +3187,139 @@ export const collections = [
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Ice/image-06.avif`,
                         ],
                         price: 220
+                    },
+                    {
+                        id: 'cloudtilt-08',
+                        name: 'Cloudtilt',
+                        color: 'Eclipse | Lilac',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Eclipse-Lilac/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-09',
+                        name: 'Cloudtilt',
+                        color: 'Arctic | Ice',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Arctic-Ice/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-10',
+                        name: 'Cloudtilt',
+                        color: 'Pearl | Fade',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Pearl-Fade/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-11',
+                        name: 'Cloudtilt',
+                        color: 'Midnight | Ice',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Midnight-Ice/image-01.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-12',
+                        name: 'Cloudtilt',
+                        color: 'Flame | Eclipse',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Flame-Eclipse/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-13',
+                        name: 'Cloudtilt',
+                        color: 'Rock | Sand',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Rock-Sand/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                    {
+                        id: 'cloudtilt-14',
+                        name: 'Cloudtilt',
+                        color: 'Iron | Dew',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt/Iron-Dew/image-06.avif`,
+                        ],
+                        price: 220
+                    },
+                ]
+            },
+            {
+               id: 'cloudtilt-LOEWE',
+                name: 'Cloudtilt LOEWE',
+                description: "Designed with LOEWE, this sneaker has been precision-engineered for long-lasting comfort. Lightweight and effortlessly smooth.",  
+                sneaker: [
+                    {
+                        id: 'cloudtilt-LOEWE-01',
+                        name: 'Cloudtilt LOEWE',
+                        color: 'Denim Grey',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Grey/image-06.avif`,
+                        ],
+                        price: 500
+                    },
+                    {
+                        id: 'cloudtilt-LOEWE-02',
+                        name: 'Cloudtilt LOEWE',
+                        color: 'Denim Grey',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudtilt/Cloudtilt LOEWE/Denim Blue/image-06.avif`,
+                        ],
+                        price: 500
                     },
                 ]
             },
@@ -2971,6 +3664,20 @@ export const collections = [
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-04.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-05.avif`,
                             `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Ivory-Ivory/image-06.avif`,
+                        ],
+                        price: 240
+                    },
+                    {
+                        id: 'cloudzone-moon-04',
+                        name: 'Cloudzone Moon',
+                        color: 'Alloy | Rock',
+                        images: [
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-01.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-02.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-03.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-04.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-05.avif`,
+                            `${import.meta.env.BASE_URL}/sneaker_collection/Cloudzone/Cloudzone Moon/Alloy-Rock/image-06.avif`,
                         ],
                         price: 240
                     },
