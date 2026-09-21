@@ -1766,7 +1766,7 @@ export const collections = [
                         price: 220
                     },
                     {
-                        id: 'cloudsurfer-2-05',
+                        id: 'cloudsurfer-2-06',
                         name: 'Cloudsurfer 2',
                         color: 'Pearl | Ivory',
                         images: [
@@ -1780,7 +1780,7 @@ export const collections = [
                         price: 220
                     },
                     {
-                        id: 'cloudsurfer-2-06',
+                        id: 'cloudsurfer-2-07',
                         name: 'Cloudsurfer 2',
                         color: 'Lilac | Ivory',
                         images: [
@@ -1794,7 +1794,7 @@ export const collections = [
                         price: 220
                     },
                     {
-                        id: 'cloudsurfer-2-07',
+                        id: 'cloudsurfer-2-08',
                         name: 'Cloudsurfer 2',
                         color: 'Tangerine | Ivory',
                         images: [
