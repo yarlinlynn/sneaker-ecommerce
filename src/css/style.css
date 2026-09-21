@@ -17,14 +17,6 @@
         /* font-family: var(--font-georama); */
     }
 
-    h1 {
-        @apply my-[5px] text-[26px] font-medium;
-    }
-
-    p {
-        @apply text-[#808080] font-medium uppercase text-[10px] mt-[-15px];
-    }
-
     img {
         @apply w-full h-4/5 object-contain;
     }
